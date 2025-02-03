@@ -1,6 +1,6 @@
 ---
 title: About Me
-layout: layout/base.njk
+layout: base.njk
 ---
 
 This is a *test*.

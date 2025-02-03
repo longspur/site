@@ -1,5 +1,6 @@
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("test.css");
+  eleventyConfig.addPassthroughCopy("./src/css/");
+  eleventyConfig.addWatchTarget("./src/css/");
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("js");
     
@@ -9,7 +10,7 @@ module.exports = function (eleventyConfig) {
         input: "src",
         output: "public",
         includes: "_includes",
-        layouts: "_includes/layouts",
+        layouts: "_includes/layout",
       },
     };
   };

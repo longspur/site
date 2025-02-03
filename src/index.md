@@ -1,6 +1,6 @@
 ---
 title: Hello World!
-layout: layout/base.njk
+layout: base.njk
 ---
 
 # Welcome to my website!
