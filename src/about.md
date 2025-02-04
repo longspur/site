@@ -5,4 +5,8 @@ layout: base.njk
 
 This is a *test*.
 
-Testing if this will get pushed.
+1. Test
+2. Test
+3. Test
+
+*Test* **Test** _Test_ using MarkDown instead of HTML

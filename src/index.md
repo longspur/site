@@ -3,20 +3,19 @@ title: Hello World!
 layout: base.njk
 ---
 
-# Welcome to my website!
+## Welcome to my website!
 
-So many ideas run through my head! Woah!!!
+Testing
 
-<strong>Did you know you can mix HTML with Markdown?</strong>
+<strong>Mixing HTML and markdown</strong>
 
-**Neat, ain't it?**
+**Test**
 
-Lists?
+Lists
 - Yeah
 - That's
 - Right
-- Unordered tho.
-  1. No worries!
-  2. Let your creativity grow strong!
+  1. Numbered now
+  2. Yayyy
 
-## Is that cool?
+## WIP
