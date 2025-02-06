@@ -9,7 +9,6 @@ module.exports = function (eleventyConfig) {
         input: "src",
         output: "public",
         includes: "_includes",
-        layouts: "_includes/layout",
       },
     };
   };
