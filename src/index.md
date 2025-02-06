@@ -1,21 +1,12 @@
 ---
-title: Hello World!
+title: Homepage
 layout: base.njk
 ---
 
 ## Welcome to my website!
 
-Testing
+This is a test. There will be more here later... including:
 
-<strong>Mixing HTML and markdown</strong>
-
-**Test**
-
-Lists
-- Yeah
-- That's
-- Right
-  1. Numbered now
-  2. Yayyy
-
-## WIP
+- Birdwatching
+- Recipes/Cooking Journal??
+- **OC STUFF?!**
