@@ -20,31 +20,31 @@ nav{
     
   }
   
-   /* unvisited link */
+   /* unvisited link 
   a:link {
     text-decoration: none;
     color: #678583;
     text-transform:uppercase;
-  }
+  }*/
   
-  /* visited link */
+  /* visited link 
   a:visited {
     text-decoration: none;
     color: #2f4746;
     text-transform:uppercase;
-  }
+  }*/
   
-  /* mouse over link */
+  /* mouse over link
   a:hover {
     text-decoration: none;
     text-transform:uppercase;
   }
-  
-  /* selected link */
+  */
+  /* selected link 
   a:active {
     text-decoration: none;
     text-transform:uppercase;
-  } 
+  } */
   
       .desc{
       text-align:center;

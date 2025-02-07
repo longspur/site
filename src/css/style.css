@@ -40,8 +40,31 @@ body {
   color:#404040;
 } 
 
-.headerimg {
+ /* unvisited link */
+ a:link {
+  text-decoration: none;
+  color: #678583;
+  font-weight: bold;
+  border-bottom: 1px dotted;
 }
+
+/* visited link */
+a:visited {
+  text-decoration: none;
+  color: #2f4746;
+}
+
+/* mouse over link */
+a:hover {
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  text-decoration: none;
+  
+} 
+
 
 hr.one {
   border: 1px dashed gray;
@@ -75,6 +98,22 @@ hr.one {
   border:1px solid gray;
   padding: 15px;
   
+}
+
+/* Recent Blog Posts block in index.html */
+#recentpostlistdiv ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+/* At the bottom of blog posts */
+#nextprev {
+  text-align: center;
+  margin-top: 1.4em;
+}
+
+#flex {
+  display: flex;
 }
 
 /* .sidebar2 {
