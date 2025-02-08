@@ -5,7 +5,7 @@ layout: base.njk
 
 ## Welcome to my website!
 
-This is a test. There will be more here later... including:
+I'm trying to think of a catchy name for this site, but for now, this exists. Best viewed on desktop, though mobile is technically ✨functional✨.
 
 - Birdwatching
 - Recipes/Cooking Journal??

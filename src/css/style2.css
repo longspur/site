@@ -2,7 +2,7 @@
 
 nav{
   z-index: 99;
-  background-image:url('/images/bg2.png');
+  background-image:url('/images/bg3.png');
   position: fixed;
     width:200px;
     height:100%;
@@ -168,12 +168,6 @@ body {
   background-attachment:fixed;
   padding-right: 10px;
    
-}
-
-.dark-mode {
-  background-color: black;
-  color: white;
-  background-image:url("/images/bg2.png");
 }
 
 .box {
