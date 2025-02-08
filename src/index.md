@@ -13,9 +13,8 @@ I'm trying to think of a catchy name for this site, but for now, this exists. Be
 
 <!-- This next part will show your top three most recent posts. You can change how readableDate looks in your .eleventy.js file-->
 ## Recent Blog Posts
-
 <div id="recentpostlistdiv">
-  <ul>
+  <ul class="none">
   {% assign top_posts = collections.posts | reverse %}
 	{%- for post in top_posts limit:3 -%}
 		<li><a href="{{ post.data.permalink }}">{{ post.data.date | readableDate }} » {{ post.data.title }}</a></li>

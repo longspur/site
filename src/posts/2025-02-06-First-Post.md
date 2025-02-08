@@ -1,12 +1,13 @@
 ---
 layout: post.njk
 permalink: posts/2025-02-06-First-Post.html
-title: First test...
+title: First Journal Post
 date: 2025-02-06
 description: This is the first post on my brand new cool blog!
 featured_image: cat.jpg
 tags:
   - journal
+  - site
   - posts
 ---
 

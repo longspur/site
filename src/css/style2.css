@@ -13,8 +13,8 @@ nav{
     padding-top:5px;
     padding-right:10px;
     padding-left:15px;
-    border-right: gray double;
-    background-color:white;
+    border-right: #b3b3b3 double;
+    background-color:#000000;
   font-family:helvetica;
   color:#2f4746;
   font-size:14px;
@@ -55,12 +55,12 @@ a:active {
     margin:10px 0 0 0;
     display:block;
     border: 1px gray solid;
-    background-color:white;
+    background-color:#1a1a20;
 
 }
 
 .navlink{
-  background-color: white;
+  background-color: #1a1a20;
   background-image:url('');
   display: block;
   padding: 3px;
@@ -68,7 +68,7 @@ a:active {
   margin:10px 0 0 0;
   margin-left:-4px;
   text-align:center;
-  border: 1px gray solid;
+  border: 1px #b3b3b3 solid;
 }
 
 /* mobile only description, hides on desktop */
@@ -119,7 +119,7 @@ a:active {
 }
 
 }
-/* Modified from Cepheus */
+/* StatusCafe */
 
 #statuscafe {
   max-height: 100px;
@@ -129,25 +129,25 @@ margin-left:3px;
 margin-right:3px;
 border-radius: 3px;
 background-color: transparent;
-border: 1px solid #aaa;
 }
 #statuscafe-username {
 margin-bottom: 7px;
 font-style: normal;
 font-weight: bold;
-background: #f7d2d2;
-color: #992b2b;
+background: #bd94cf;
+color: #644970;
 padding-left: 3px;
 padding-bottom: 0px;
 }
 
 #statuscafe-username a{
 background: transparent;
-color: #000;}
+color: #302036;}
 
 
 #statuscafe-content {
 margin-left: 5px;
+color:#f0f0f0;
 }
 
 
@@ -160,11 +160,11 @@ margin-left: 5px;
 
 body {
    font-family: 'Helvetica';
-  color:#404040;
+  color:#d8d2dd;
    margin-left: 225px;
    margin-top: 0px;
    background-color: #f2f2f2;
-  background-image:url("/images/bg1.png");
+  background-image:url("/images/bgdarker.png");
   background-attachment:fixed;
   padding-right: 10px;
    
@@ -175,9 +175,9 @@ body {
     height: 100%;
     margin-left:0px;
     padding: 10px 10px 10px 15px;
-    border-right: gray double;
-    border-bottom: gray double;
-    background-color: white;
+    border-right: #b3b3b3 double;
+    border-bottom: #b3b3b3 double;
+    background-color: #1a1a20;
   
 }
 
@@ -190,13 +190,13 @@ body {
     height: 50px;
     margin-left:10px;
     margin-bottom:30px;
-  color:#404040;
+  color:#d8d2dd;
 } 
 
  /* unvisited link */
  a:link {
   text-decoration: none;
-  color: #678583;
+  color: #7470a0;
   font-weight: bold;
   border-bottom: 1px dotted;
 }
@@ -204,7 +204,7 @@ body {
 /* visited link */
 a:visited {
   text-decoration: none;
-  color: #2f4746;
+  color: #bd94cf;
 }
 
 /* mouse over link */
@@ -220,7 +220,7 @@ a:active {
 
 
 hr.one {
-  border: 1px dashed gray;
+  border: 1px dashed #f2f2f2;
 }
 
 /*.textbody {
@@ -274,6 +274,14 @@ hr.one {
     background-color: lightgray;
    padding: 15px;
 } */
+
+.footer{
+  color:whitesmoke;
+  font-size:11px;
+  padding: 10px;
+  line-height:1.5em;
+  }
+  
 
 @media (max-width: 768px) { body {
   margin-left: 0px;
