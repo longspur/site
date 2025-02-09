@@ -181,6 +181,12 @@ body {
   
 }
 
+.blogimg {
+  max-width:75%;
+   border: #b3b3b3 double;
+   overflow:hidden;
+   display:inline-block;
+ }
 
 .header {
   font-family: 'Tahoma';

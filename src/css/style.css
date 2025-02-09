@@ -168,6 +168,7 @@ body {
    
 }
 
+
 .dark-mode {
   background-color: black;
   color: white;
@@ -185,6 +186,12 @@ body {
   
 }
 
+.blogimg {
+ max-width:75%;
+  border: gray double;
+  overflow:hidden;
+  display:inline-block;
+}
 
 .header {
   font-family: 'Tahoma';
