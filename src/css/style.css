@@ -168,13 +168,6 @@ body {
    
 }
 
-
-.dark-mode {
-  background-color: black;
-  color: white;
-  background-image:url("/images/bg2.png");
-}
-
 .box {
     width: 80%;
     height: 100%;
@@ -187,7 +180,7 @@ body {
 }
 
 .blogimg {
- max-width:75%;
+ max-width:50%;
   border: gray double;
   overflow:hidden;
   display:inline-block;
@@ -228,6 +221,7 @@ a:active {
   text-decoration: none;
   
 } 
+
 
 
 hr.one {
