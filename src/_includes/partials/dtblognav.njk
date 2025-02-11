@@ -1,0 +1,10 @@
+<div align="center"><div id="nav1" class="nav">
+    {% if nextPost.url %}
+    <a class="next" href="{{ nextPost.url }}">« Next</a> |
+    {% endif %}
+    <a href="../entries.html">Return</a>
+    {% if prevPost.url %}
+    | <a class="previous" href="{{ prevPost.url }}">Previous »</a>
+    {% endif %}
+</div>
+</div>

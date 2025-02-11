@@ -25,6 +25,17 @@ module.exports = function (eleventyConfig) {
     return coll;
   });
 
+  eleventyConfig.addCollection("entries", function(collection) {
+    const coll = collection.getFilteredByTag("entries");    
+    for(let i = 0; i < coll.length ; i++) {
+      const prevPost = coll[i-1];
+      const nextPost = coll[i + 1];      
+      coll[i].data["prevPost"] = prevPost;
+      coll[i].data["nextPost"] = nextPost;
+    }
+    return coll;
+  });
+
   // Add the filter "readableDate" to simplify the way blog dates are presented in the Archives page
   eleventyConfig.addFilter('readableDate', (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: 'utc+9' }).toFormat(
