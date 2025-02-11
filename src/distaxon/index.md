@@ -1,6 +1,7 @@
 ---
 title: Disaster Taxon
 layout: base.njk
+permalink: distaxon.html
 ---
 
 Welcome... this is a placeholder. Intending to make a separate layout for this section of the site. Soon you may expect to see:
