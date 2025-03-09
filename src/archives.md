@@ -31,6 +31,18 @@ I talk to myself sometimes. Feel free to browse by category.
 </ul>
 
 ---
+## ![Berry](/images/mulch.png) Music
+<!--This next part shows all of your posts tagged "video-games" in reverse chronological order-->
+
+<ul class="none">
+{% assign top_music = collections.music | reverse %}
+{%- for post in top_music -%}
+  <li><a href="{{ post.data.permalink }}">{{ post.data.date | readableDate }} » {{ post.data.title }}</a></li>
+{% endfor %}
+</ul>
+
+---
+
 
 ## ![Parcel](/images/parcel.webp) All Posts
 

@@ -71,6 +71,8 @@ a:active {
   border: 1px gray solid;
 }
 
+
+
 /* mobile only description, hides on desktop */
 
 @media (min-width: 768px) {
@@ -90,7 +92,8 @@ a:active {
     border-left: gray;
     border-bottom: 2px gray double;
   }
-  
+
+
   nav img { float: left;
     margin-right: 20px;
   }
@@ -120,6 +123,7 @@ a:active {
 
 }
 /* Modified from Cepheus */
+
 
 #statuscafe {
   max-height: 100px;
@@ -168,6 +172,7 @@ body {
    
 }
 
+
 .box {
     width: 80%;
     height: 100%;
@@ -178,6 +183,9 @@ body {
     background-color: white;
   
 }
+
+
+
 
 .blogimg {
  max-width:50%;
@@ -297,5 +305,4 @@ line-height:1.5em;
     border-right:none;
   } 
 
- 
 }

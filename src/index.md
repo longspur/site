@@ -3,13 +3,8 @@ title: Homepage
 layout: base.njk
 ---
 
-## Welcome to my website!
+I'm trying to think of a catchy name for this site, but for now, this exists. Best viewed on desktop, though mobile is technically ✨functional✨. Currently just a journal for hobbies and whatnot.
 
-I'm trying to think of a catchy name for this site, but for now, this exists. Best viewed on desktop, though mobile is technically ✨functional✨.
-
-- Birdwatching
-- Recipes/Cooking Journal??
-- **OC STUFF?!**
 
 <!-- This next part will show your top three most recent posts. You can change how readableDate looks in your .eleventy.js file-->
 ## Recent Blog Posts
