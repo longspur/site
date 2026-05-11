@@ -11,9 +11,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^2.0.1"
+    "@11ty/eleventy": "^3.1.5"
   },
   "devDependencies": {
     "luxon": "^3.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longspur/site.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/longspur/site/issues"
+  },
+  "homepage": "https://github.com/longspur/site#readme"
 }
