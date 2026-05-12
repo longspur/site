@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="UTF-8">
    <link rel="shortcut icon" href="/images/beetle.gif" type="image/x-icon">
 <title>Journal: {{ title }}</title>
 </head>
@@ -35,8 +36,8 @@
 <!-- Content start -->
 <main id="content">
 <section>
-        <h3><i class="fa-solid fa-newspaper"></i> {{ title }}</h3>
-        <p style="color: var(--hr)"><strong>{{ date | topDate }}</strong></p>
+        <h2>{{ title }}</h2>
+        <p style="color: var(--hr)"><strong><i class="fa-solid fa-calendar-days"></i> {{ date | topDate }}</strong></p>
         <hr class="one">
         <!--You can change how topDate looks in your .eleventy.js file-->
         {{ content | safe }}
