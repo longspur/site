@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <link rel="shortcut icon" href="/images/beetle.gif" type="image/x-icon">
-<title>Journal: {{ title }}</title>
+    <link rel="shortcut icon" href="/images/beetle.gif" type="image/x-icon">
+<title>{{ title }}</title>
 </head>
 <body>
 <!-- Accessibility links - do not remove -->
@@ -35,21 +35,18 @@
 <!-- Content start -->
 <main id="content">
 <section>
-        <h3><i class="fa-solid fa-newspaper"></i> {{ title }}</h3>
-        <p style="color: var(--hr)"><strong>{{ date | topDate }}</strong></p>
-        <hr class="one">
-        <!--You can change how topDate looks in your .eleventy.js file-->
-        {{ content | safe }}
+<h2>{{ title }}</h3>
+{{ content | safe }}
+</section>
+</main>
+<!-- Content end -->
 
-        <!-- Footer start -->
-<footer>{% include "partials/blognav.njk" %}<br><a href="#top">Back to top</a> &bull; <a href="#menu">Back to menu</a>
-{% include "partials/footer.njk" %}
+<!-- Footer start -->
+<footer>
+<p><a href="#top">Back to top</a> &bull; <a href="#menu">Back to menu</a></p>
+ <br><footer>{% include "partials/footer.njk" %}</footer>
 </footer>
 <!-- Footer end -->
-    </main></div>
-  </body>
-</section>
-<!-- Content end -->
 
 <!-- Container end -->
 </div>
