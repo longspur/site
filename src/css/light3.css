@@ -45,16 +45,7 @@
 
 * { margin:0; padding:0; }
 
-@font-face { 
-	font-family: "Menlo"; 
-	src: url("/fonts/Menlo-Regular.woff2") format("woff2"), 
-		url("/fonts/Menlo-Regular.woff") format("woff"), 
-		url("/fonts/Menlo-Regular.ttf") format("truetype"); 
-	font-weight: normal;
-	font-style: normal; 
-	font-display: swap; 
-}
-
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
 img {
     max-width:95%;
 }
@@ -95,7 +86,7 @@ body {
 	color:var(--color);
 	background:var(--background);
 	 font-weight: 500;
-    font-family: "Menlo", "Courier New", Courier, monospace;
+    font-family: "Inconsolata", monospace;
 }
 
 main {

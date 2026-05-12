@@ -9,7 +9,7 @@ You may know me best by the username **ETOURVOL**, which I still use, but am fee
 ---
 
 ### <i class="fa-solid fa-radio"></i> Updates
-> **11 May 2026:** Hello! If you've found yourself here, this site is incredibly under construction. I've opted for a minimalist layout as not to overwhelm myself starting out with a site again (though my true love is pixel-laden, container-heavy layouts... love from my Neopets days...). Current agenda here is to have a responsive site with multiple color palettes to house my archived newsletters. And eventually an art gallery, but that is another beast to tackle.
+> **11 May 2026:** Hello! If you've found yourself here, this site is incredibly under construction. I've opted for a minimalist layout as not to overwhelm myself starting out with a site again (though my true love is pixel-laden, container-heavy layouts... love from my Neopets days...). Current agenda here is to have a mobile-responsive site with multiple color palettes to house my archived newsletters. And eventually an art gallery, but that is another beast to tackle.
 
 ---
 
