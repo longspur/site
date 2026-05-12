@@ -20,5 +20,5 @@ You may know me best by the username **ETOURVOL**, which I still use, but am fee
   {% assign top_posts = collections.posts | reverse %}
 	{%- for post in top_posts limit:3 -%}
 		<li><a href="{{ post.data.permalink }}">{{ post.data.date | readableDate }} » {{ post.data.title }}</a></li>
-	{% endfor %}<li class="moreposts"><a href="archives.html">» See More</a></ul>
+	{% endfor %}<li class="moreposts"><a href="newsletter.html">» See More</a></ul>
 </div>
