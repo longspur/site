@@ -412,7 +412,7 @@ main input[type="submit"]:hover, main input[type="submit"]:focus, main button:ho
 
 /* Mobile styling */
 
-@media screen and (max-width:800px) {
+@media screen and (max-width:768px) {
     #menu {
         flex: 1 1 calc(100% - 20px);
         text-align:center;
@@ -430,6 +430,11 @@ main input[type="submit"]:hover, main input[type="submit"]:focus, main button:ho
     #menu li {
         display:inline-block;
     }
+
+    body { 
+    font:1rem "Inconsolata", monospace;
+    line-height:1;
+}
     
     #content {
         flex: 1 1 calc(100% - 20px);
