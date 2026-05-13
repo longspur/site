@@ -9,12 +9,12 @@ You may know me best by the username **ETOURVOL**, which I still use, but am fee
 ---
 
 ### <i class="fa-solid fa-radio"></i> Updates
-> **11 May 2026:** Hello! If you've found yourself here, this site is incredibly under construction. I've opted for a minimalist layout as not to overwhelm myself starting out with a site again (though my true love is pixel-laden, container-heavy layouts... love from my Neopets days...). Current agenda here is to have a mobile-responsive site with multiple color palettes to house my archived newsletters. And eventually an art gallery, but that is another beast to tackle.
-
+> - **12 May 2026:** Working on mobile responsiveness (want to make navbar collapsible!), sorted newsletter by year
+> - **11 May 2026:** Overhauled site layout, created light/dark mode, began mirroring newsletter
 ---
 
 <!-- This next part will show your top three most recent posts. You can change how readableDate looks in your .eleventy.js file-->
-### Recent Newsletters
+### <i class="fa-solid fa-envelopes-bulk"></i> Recent Newsletters
 <div id="recentpostlistdiv">
   <ul class="none">
   {% assign top_posts = collections.posts | reverse %}

@@ -7,6 +7,7 @@ description: This is the first post on my brand new cool blog!
 featured_image: cat.jpg
 tags:
   - newsletter
+  - y2026
 ---
 
 > **11 May 2026:** This post is missing photos, which need to be optimized and rehosted on this site. You can find the [original newsletter here](https://www.patreon.com/posts/field-notes-154918046).
