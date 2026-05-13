@@ -2,7 +2,7 @@
 title: About
 layout: base2.njk
 ---
-Hello! I'm Petrel (among other names you might know), this is my very under construction site.
+Hello! I go by Petrel (among other names you might know), this is my very under construction site.
 
 I find social media difficult to use these days especially, so I hope this provides a way to connect and keep up outside. Nonetheless, you can find a selection of sites I do use here, and in the footer.
 

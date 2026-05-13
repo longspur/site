@@ -75,12 +75,12 @@ img {
     max-width:95%;
 }
 
-body {
-	background: var(--background);
+body { 
 	color:var(--color);
-   font-family:helvetica;
-    color:#2f4746;
-    font-size:14px;
+	background:var(--background);
+	font-weight: 400;
+    font:1.10rem "Inconsolata", monospace;
+    line-height:1.4;
 }
 
 /* Skip to content link - do not remove */
@@ -106,13 +106,6 @@ body {
 /* Styling */
 
 img { margin:5px; max-width:100%; }
-
-body { 
-	color:var(--color);
-	background:var(--background);
-	 font-weight: 500;
-    font-family: "Inconsolata", monospace;
-}
 
 main {
 	padding:20px;
@@ -262,7 +255,7 @@ main footer {
 /* Container */
 
 #container {
-	max-width:800px;
+	max-width:1000px;
     width: 90%;
 	background:var(--background);
 	border:var(--borderstyle);
