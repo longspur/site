@@ -13,7 +13,7 @@ I am working to format and rehost images, so some of those may be missing at pre
 ---
 
 
-### <i class="fa-solid fa-envelopes-bulk"></i> Field Notes
+### <i class="fa-solid fa-envelopes-bulk"></i> All Field Notes
 
 <!--This next part shows all of your posts tagged "posts" in reverse chronological order-->
 
@@ -26,5 +26,19 @@ I am working to format and rehost images, so some of those may be missing at pre
 
 ---
 
-Tutorial for this setup using 11ty by [Midnight Reading](https://renkotsuban.neocities.org/posts/2023-11-15-Migrating-to-Eleventy).
+#### <i class="fa-solid fa-calendar-day"></i> 2026
+<!--This next part shows all of your posts tagged "y2026" in reverse chronological order-->
+
+
+<ul class="none">
+{% assign top_y2026 = collections.y2026 %}
+{%- for post in top_y2026 -%}
+  <li><a href="{{ post.data.permalink }}">{{ post.data.date | readableDate }} » {{ post.data.title }}</a></li>
+{% endfor %}
+</ul>
+
+
+---
+
+<i class="fa-solid fa-code"></i> Tutorial for this setup using 11ty by [Midnight Reading](https://renkotsuban.neocities.org/posts/2023-11-15-Migrating-to-Eleventy).
 
