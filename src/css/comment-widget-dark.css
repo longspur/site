@@ -57,11 +57,11 @@
 #c_widget {
     box-sizing: border-box;
     height: 100%;
-    overflow: auto;
+    overflow: hidden;
     padding: 20px;
-    background-image: url('sparkle-bg.gif'); /* F2U background provided by https://sadgrl.online/webmastery/downloads/tiledbgs */
-    background-attachment: fixed;
-    font-family: 'Courier New';
+    /* background-image: url('sparkle-bg.gif'); F2U background provided by https://sadgrl.online/webmastery/downloads/tiledbgs */
+    /* background-attachment: fixed; */
+    font-family: 'Inconsolata', monospace;
     font-size: 16px;
     color: white;
 }
@@ -90,8 +90,8 @@
 #c_inputDiv {
     margin-bottom: 15px;
     padding: 10px;
-    background-color: black;
-    border: 2px solid white;
+    background-color: rgba(61, 61, 61, 0.2);
+    border: 2px solid  rgba(61, 61, 61, 0.2);
 }
 
 #c_widgetTitle {

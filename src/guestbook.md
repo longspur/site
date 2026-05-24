@@ -3,4 +3,11 @@ title: Guestbook
 layout: base2.njk
 ---
 
-<iframe srcdoc="&lt;div id='c_widget'&gt;&lt;/div&gt;&lt;script src='/js/comment-widget.js'&gt;&lt;/script&gt;" width="100%" frameborder="0" style="min-height:500px;"></iframe>
+Welcome to my guestbook! Feel free to say hi.
+
+- **I moderate comments manually**, your comment will not appear until I approve it myself.
+- The CSS on this page is sometimes a little finicky. If anything looks strange, hard refresh *(CTRL+F5 on PC)*.
+- Tell me your favorite bird and/or bug, if you feel so inclined!
+
+---
+{% include "partials/guestbook.njk" %}

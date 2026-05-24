@@ -17,7 +17,7 @@
 */
 
 // The values in this section are REQUIRED for the widget to work! Keep them in quotes!
-const s_stylePath = '/css/style.css';
+const s_stylePath = '/css/style';
 const s_formId = '1FAIpQLSdrOulO5rL7v26MsA6aJT-n1G8XXaQnJLxO9UkvWmPf-nCXPw';
 const s_nameId = '906854851';
 const s_websiteId = '1787518722';
@@ -40,7 +40,7 @@ const s_commentsPerPage = 5; // The max amount of comments that can be displayed
 const s_maxLength = 500; // The max character length of a comment
 const s_maxLengthName = 16; // The max character length of a name
 const s_commentsOpen = true; // Change to false if you'd like to close your comment section site-wide (Turn it off on Google Forms too!)
-const s_collapsedReplies = true; // True for collapsed replies with a button, false for replies to display automatically
+const s_collapsedReplies = false; // True for collapsed replies with a button, false for replies to display automatically
 const s_longTimestamp = false; // True for a date + time, false for just the date
 let s_includeUrlParameters = false; // Makes new comment sections on pages with URL parameters when set to true (If you don't know what this does, leave it disabled)
 const s_fixRarebitIndexPage = false; // If using Rarebit, change to true to make the index page and page 1 of your webcomic have the same comment section
@@ -61,7 +61,7 @@ const s_submitButtonLabel = 'Submit';
 const s_loadingText = 'Loading comments...';
 const s_noCommentsText = 'No comments yet!';
 const s_closedCommentsText = 'Comments are closed temporarily!';
-const s_websiteText = 'Website'; // The links to websites left by users on their comments
+const s_websiteText = 'Website ↗'; // The links to websites left by users on their comments
 const s_replyButtonText = 'Reply'; // The button for replying to someone
 const s_replyingText = 'Replying to'; // The text that displays while the user is typing a reply
 const s_expandRepliesText = 'Show Replies';
@@ -83,6 +83,16 @@ c_cssLink.type = 'text/css';
 c_cssLink.rel = 'stylesheet';
 c_cssLink.href = s_stylePath;
 document.getElementsByTagName('head')[0].appendChild(c_cssLink);
+function changeStyle(style) {
+    if (style == null)
+        style = localStorage.getItem("style");
+        if (style == null) 
+            style = "/css/style";
+    document.querySelector("link[type='text/css']").setAttribute("href", style + ".css");
+    localStorage.setItem("style", style);
+}
+
+changeStyle();
 
 // HTML Form
 const v_mainHtml = `
@@ -382,7 +392,7 @@ function createComment(data) {
     name.innerText = 'Guest'; // Change 'Guest' to whatever you want
 }
 if(data.Admin == true) {
-name.insertAdjacentHTML('beforeend', " <img src='/images/beetle.gif' style='width:15px; height:15px' title='admin' alt='admin'> ");
+name.insertAdjacentHTML('beforeend', " <span class='adminmark' style='color: var(--hr); font-size: smaller;'>[WEBMASTER]</span> ");
 } 
     comment.appendChild(name);
 
@@ -411,7 +421,7 @@ name.insertAdjacentHTML('beforeend', " <img src='/images/beetle.gif' style='widt
     text.innerText = filteredText;
     text.className = 'c-text';
     if(data.Moderated == false) {
-    text.innerText = 'This comment is awaiting moderation'; // Change this value to whatever you want
+    text.innerText = 'This comment is awaiting moderation.'; // Change this value to whatever you want
 }
     comment.appendChild(text);
     
