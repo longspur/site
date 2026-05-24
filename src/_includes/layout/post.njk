@@ -4,7 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <link rel="shortcut icon" href="/images/beetle.gif" type="image/x-icon">
-<title>Journal: {{ title }}</title>
+   <script src="https://kit.fontawesome.com/ada44e2de9.js" crossorigin="anonymous"></script>
+  <link type="text/css" rel="stylesheet" media="all" href="/css/style.css" id="theme_css" />
+
+    <script type = "text/javascript" src="/js/switch.js"></script>
+<title>Journal: {{ title }} - Marginal Sea</title>
 </head>
 <body>
 <!-- Accessibility links - do not remove -->
@@ -14,44 +18,38 @@
 <!-- Container start -->
 <div id="container">
 <!-- Header -->
-<script src="https://kit.fontawesome.com/ada44e2de9.js" crossorigin="anonymous"></script>
-  <link type="text/css" rel="stylesheet" media="all" href="/css/style.css" id="theme_css" />
-
-    <script type = "text/javascript" src="/js/switch.js"></script>
 
 <header>
  <div class="header"><h2>ETOURVOL <i class="fa-solid fa-seedling"></i></h2><hr class="one"></div>
 </header>
 
 <!-- Menu start -->
-<nav id="menu">
-<ul>
-    <!-- Add links here in <li> tags -->
-    <li><a href="/"><i class="fa-solid fa-location-dot"></i> Home</a></li>
-    <li><a href="/about"><i class="fa-solid fa-info-circle"></i> About</a></li>
-    <li><a href="/newsletter"><i class="fa-solid fa-envelope"></i> Newsletter</a></li>
-</ul>
-</nav>
+{% include "partials/sidebar.njk" %}
 <!-- Menu end -->
 
 <!-- Content start -->
 <main id="content">
 <section>
         <h2>{{ title }}</h2>
-        <p style="color: var(--hr)"><strong><i class="fa-solid fa-calendar-days"></i> {{ date | topDate }}</strong></p>
+        <p style="color: var(--hr)"><strong><i class="fa-solid fa-calendar-days"></i> <i>{{ date | topDate }}</i></strong></p>
+        {% include "partials/blognav.njk" %}
         <hr class="one">
         <!--You can change how topDate looks in your .eleventy.js file-->
         {{ content | safe }}
 
-        <!-- Footer start -->
-<footer>{% include "partials/blognav.njk" %}<br><a href="#top">Back to top</a> &bull; <a href="#menu">Back to menu</a>
-{% include "partials/footer.njk" %}
+        
+    </main>
+</section>
+
+<!-- Footer start -->
+<footer>
+<p><a href="#top">Back to top</a> &bull; <a href="#menu">Back to menu</a></p>{% include "partials/blognav.njk" %}
+ <br><footer>{% include "partials/footer.njk" %}</footer>
 </footer>
 <!-- Footer end -->
-    </main></div>
-  </body>
-</section>
+
 <!-- Content end -->
+
 
 <!-- Container end -->
 </div>

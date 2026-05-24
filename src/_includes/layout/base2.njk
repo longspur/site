@@ -4,7 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/images/beetle.gif" type="image/x-icon">
-<title>{{ title }}</title>
+<title>{{ title }} - Marginal Sea</title>
+<script src="https://kit.fontawesome.com/ada44e2de9.js" crossorigin="anonymous"></script>
+  <link type="text/css" rel="stylesheet" media="all" href="/css/style.css" id="theme_css" />
+
+    <script type = "text/javascript" src="/js/switch.js"></script>
 </head>
 <body>
 <!-- Accessibility links - do not remove -->
@@ -14,24 +18,13 @@
 <!-- Container start -->
 <div id="container">
 <!-- Header -->
-<script src="https://kit.fontawesome.com/ada44e2de9.js" crossorigin="anonymous"></script>
-  <link type="text/css" rel="stylesheet" media="all" href="/css/style.css" id="theme_css" />
-
-    <script type = "text/javascript" src="/js/switch.js"></script>
 
 <header>
- <div class="header"><h2>ETOURVOL <i class="fa-solid fa-seedling"></i></h2><hr class="one"></div>
+ <div class="header"><h2>ETOURVOL <i class="fa-solid fa-seedling" aria-hidden="true"></i></h2><hr class="one"></div>
 </header>
 
 <!-- Menu start -->
-<nav id="menu">
-<ul>
-    <!-- Add links here in <li> tags -->
-    <li><a href="/"><i class="fa-solid fa-location-dot"></i> Home</a></li>
-    <li><a href="/about"><i class="fa-solid fa-info-circle"></i> About</a></li>
-    <li><a href="/newsletter"><i class="fa-solid fa-envelope"></i> Newsletter</a></li>
-</ul>
-</nav>
+{% include "partials/sidebar.njk" %}
 <!-- Menu end -->
 
 <!-- Content start -->

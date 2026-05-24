@@ -8,7 +8,9 @@ featured_image: favicon.png
 
 This is an archive of my free newsletter, *Field Notes*, which I currently distribute via [Patreon](https://www.patreon.com/marginalsea) roughly once a month. Patreon allows you to receive email updates and interact, but the actual content itself can be found below.
 
-I am working to format and rehost images, so some of those may be missing at present. I am toying with the idea of including comment functionality at some point.
+You will find photographs here are [dithered](https://app.dithermark.com/), this is to reduce file size (and I think it looks cool!). The images in their initial quality can be found on the links to the original newsletter. 
+
+I am toying with the idea of including comment functionality at some point, but for now feel free to leave comments on Patreon.
 
 ---
 
