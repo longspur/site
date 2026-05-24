@@ -2,7 +2,7 @@
 title: About
 layout: base2.njk
 ---
-I go by **Petrel** (among other names you might know), this is my perpetually under construction personal site. I am a Ph.D. candidate in ecology and evolutionary biology, and spend a lot of my time thinking about ecosystems and the creatures that influence them behind the scenes. *(Wish I could get more specific than that, but my research is niche and thus makes me easily searchable. Oops!)* 
+I go by **Petrel** (among other names you might know), this is my perpetually under construction personal site. I am in my late 20s and use they/she pronouns. I am a Ph.D. candidate in ecology and evolutionary biology, and spend a lot of my time thinking about ecosystems and the creatures that influence them behind the scenes. *(Wish I could get more specific than that, but my research is niche and thus makes me easily searchable. Oops!)* 
 
 I am a lifelong artist, digital and otherwise. I've drawn all sorts of things, but in recent years I've been more focused on [my own characters](https://toyhou.se/taxon) and those of my friends. I also am an avid [photographer](https://www.tumblr.com/atlanticflyway) and spend a lot of time looking at things outside.
 
@@ -44,7 +44,7 @@ My favorite musicians are Sufjan Stevens, Joanna Newsom, and Owen Pallett, espec
 
 |Favorite Songs | |
 | ------ | ------ |
-| <i class="fa-solid fa-play" style="color: var(--hr);"></i> **Berlin Without Return** - *Voxtrot* |
+| <i class="fa-solid fa-play" style="color: var(--hr);"></i> **Berlin, Without Return** - *Voxtrot* |
 | <i class="fa-solid fa-play" style="color: var(--hr);"></i> **I Am Not Afraid** - *Owen Pallett* 
 | <i class="fa-solid fa-play" style="color: var(--hr);"></i> **Majesty Snowbird** - *Sufjan Stevens* 
 | <i class="fa-solid fa-play" style="color: var(--hr);"></i> **Ontario Gothic** - *Foxes in Fiction*

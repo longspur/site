@@ -1,18 +1,19 @@
 ---
 layout: post.njk
-permalink: posts/2026-04-11-First Edition.html
+permalink: posts/2026-First.html
 title: First Edition
 date: 2026-04-11
-description: This is the first post on my brand new cool blog!
+description: First newsletter edition.
 featured_image: cat.jpg
 tags:
   - newsletter
   - y2026
+  - posts
 ---
 
 > You can find the [original newsletter here](https://www.patreon.com/posts/field-notes-154918046).
 
-<div align="center"><img src="/images/newsletter/mail_smallest.png" alt="A storm petrel flying with envelopes around it."></div>
+<div align="center"><img src="/images/newsletter/2026/mail_smallest.png" alt="A storm petrel flying with envelopes around it."></div>
 
 
 Hi everyone! Trying something new, and seeing how it goes. This is a free Patreon where I will post more sides of my work and newsletters on life and creative projects. 
@@ -38,7 +39,7 @@ Busy as always with school. I applied for a one-year extension for my grad progr
 Not much on the cooking front lately, except that I have been focusing on low-energy meals that are also somewhat nutritious. Egg rice bowls w/ a frozen vegetable of choice have been my workhorse lately. I have my method down to a science and it takes <12 minutes, and generates only 2 dishes + 2 utensils to wash unless I run out of portioned frozen rice and need to take out the rice cooker. It's an expedited riff on this BudgetBytes recipe. But it's a bit of a slopbowl in appearance, so here's a picture of bibimbap from the HMart food court a few weeks ago that is a much more elevated version.
 
 <figure>
-<img src="/images/newsletter/firstedition_1.png" alt="A picture of a colorful stone bowl of bibimbap with banchan in the background."><figcaption>Bibimbap, you wish you were me</figcaption>
+<img src="/images/newsletter/2026/firstedition_1.png" alt="A picture of a colorful stone bowl of bibimbap with banchan in the background."><figcaption>Bibimbap, you wish you were me</figcaption>
 </figure>
 
 ### Creative Updates
@@ -53,18 +54,18 @@ I won't bullshit you, I just thought it was a cool term and it's kind of stickin
 
 I've also really been feeling the itch to work on longer-term projects, eventually working my way up to doing something more involved with my primary OCs. For now, I'm looking into writing a short-story, self-contained comic just to flex some of those rusty writing and drawing muscles first.
 
-<figure><img src="/images/newsletter/firstedition_2.png" alt="Screenshot of a post reading "you guys remember comics? that shit was good or bad, depending 💯"></figure>
+<figure><img src="/images/newsletter/2026/firstedition_2.png" alt="Screenshot of a post reading "you guys remember comics? that shit was good or bad, depending 💯"></figure>
 
 Thinking of doing a short (<50 pages ideally), weird comic about bird women at the worst job ever in Antarctica. This Patreon is intended to be free, but if I get to the point I'm working on longer projects routinely I may make a cheap "tip jar" tier for full backlog access and WIPs of PMVs, that sort of thing.
 
-<figure><img src="/images/newsletter/firstedition_3.png" alt="A drawing of a stern-looking anthro Leach's Storm Petrel from the waist up. She has a septum piercing in her naricorn, and silver piercings on the browline. She wears a worn beige tanktop; a wing is folded behind her arm."><figcaption>Was designing a petrelsona but she turned out way too cool to represent me.</figcaption></figure>
+<figure><img src="/images/newsletter/2026/firstedition_3.png" alt="A drawing of a stern-looking anthro Leach's Storm Petrel from the waist up. She has a septum piercing in her naricorn, and silver piercings on the browline. She wears a worn beige tanktop; a wing is folded behind her arm."><figcaption>Was designing a petrelsona but she turned out way too cool to represent me.</figcaption></figure>
 
 Offline, I have really fallen in love with acrylic markers. I try to do a sketch a week of something random and biology-related in my pocket notebook. Continuing our petrel theme, this week's was a baby Leach's storm petrel. Which resembles a dust bunny you'd find under your couch ([reference image here, highly recommend clicking](https://www.fws.gov/media/leachs-storm-petrel-chick)), but I wanted to practice texturing.
 
-<figure><img src="/images/newsletter/firstedition_4.png" alt="An acrylic marker drawing of a baby Leach's storm petrel held in hand, resembling a clump of dust with a black beak. Along the margins are small cartoony baby petrel fluffs."></figure>
+<figure><img src="/images/newsletter/2026/firstedition_4.png" alt="An acrylic marker drawing of a baby Leach's storm petrel held in hand, resembling a clump of dust with a black beak. Along the margins are small cartoony baby petrel fluffs."></figure>
 
 It's also (finally) spring, and my photography subjects (birds and bugs) are making their return! I made a storage blog for my photography on Tumblr earlier this year, which you can find here. I've done a lot of bird photography the past few years, but I've wanted to learn more about the invertebrates around me so I'm hoping to get out more and see more bugs so I can identify them. I might make a separate post on here about bug photography as the season progresses because my macro lens I acquired has a pretty funny story behind its origin.
 
-<figure><img src="/images/newsletter/firstedition_5.png" alt="A photograph of a stonefly sitting on a mossy wooden fencepost."><figcaption>A stonefly, there are many of these out and about right now.</figcaption></figure>
+<figure><img src="/images/newsletter/2026/firstedition_5.png" alt="A photograph of a stonefly sitting on a mossy wooden fencepost."><figcaption>A stonefly, there are many of these out and about right now.</figcaption></figure>
 
 I think that's it, thank you for reading to the end if you made it down here. These won't be so long every time, but I wanted to get things started and feel it out. Let me know if you enjoyed this.
