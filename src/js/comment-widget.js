@@ -55,7 +55,7 @@ const s_filteredWords = [ // Add words to filter by putting them in quotes and s
 // Text - Change what messages/text appear on the form and in the comments section (Mostly self explanatory)
 const s_widgetTitle = 'Leave a comment!';
 const s_nameFieldLabel = 'Name';
-const s_websiteFieldLabel = 'Website (Optional)';
+const s_websiteFieldLabel = 'Site (Optional)';
 const s_textFieldLabel = '';
 const s_submitButtonLabel = 'Submit';
 const s_loadingText = 'Loading comments...';
@@ -101,8 +101,8 @@ const v_mainHtml = `
     </div>
     <div id="c_container">${s_loadingText}</div>
 `;
+ //<h2 id="c_widgetTitle">${s_widgetTitle}</h2>// Unocmment this and add into the HTML below to add a title to the comment section.
 const v_formHtml = `
-    <h2 id="c_widgetTitle">${s_widgetTitle}</h2>
 
     <div id="c_nameWrapper" class="c-inputWrapper">
         <label class="c-label c-nameLabel" for="entry.${s_nameId}">${s_nameFieldLabel}</label>
@@ -411,6 +411,7 @@ name.insertAdjacentHTML('beforeend', " <span class='adminmark' style='color: var
         if(data.Moderated == false) {
     site.innerText = '';
 }
+    site.target = "_blank";
         comment.appendChild(site);
     }
 

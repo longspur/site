@@ -717,3 +717,12 @@ body {
     margin-right: 4px;
     margin-left: 4px;
 }
+
+/* Flexbox */
+
+.button {
+  width: 95%;
+  display: flex;
+  justify-content: center;
+  flex: 2 500%;
+}

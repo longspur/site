@@ -589,11 +589,11 @@ main input[type="submit"]:hover, main input[type="submit"]:focus, main button:ho
 #c_widget {
     box-sizing: border-box;
     height: 100%;
-    overflow: hidden;
+    width: 100%;
+    overflow: visible;
     /* background-image: url('sparkle-bg.gif'); F2U background provided by https://sadgrl.online/webmastery/downloads/tiledbgs */
     /* background-attachment: fixed; */
     color: var(--color);
-    margin-top:1.5em;
 }
 
 #c_widget button, #c_widget input[type=submit] {
@@ -727,4 +727,13 @@ main input[type="submit"]:hover, main input[type="submit"]:focus, main button:ho
 .c-paginationButton {
     margin-right: 4px;
     margin-left: 4px;
+}
+
+/* Flexbox */
+
+.button {
+  width: 95%;
+  display: flex;
+  justify-content: center;
+  flex: 2 500%;
 }

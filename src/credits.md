@@ -2,7 +2,7 @@
 title: Credits
 layout: base2.njk
 ---
-Here is a list of resources I used when building this site.
+Here is a list of resources I used when building this site. My coding style is akin to duct taping a lot of things together and might fall apart if you look at it the wrong way, but this is where I get the components from.
 
 ----
 
@@ -21,3 +21,17 @@ Here is a list of resources I used when building this site.
 - [**Footer Buttons**](https://ribo.zone/) - *Specifically, the eBird and iNaturalist buttons.*
 - [**Dithermark**](https://app.dithermark.com/) - *Dithering and reducing file size of newsletter photography.*
 - [**FontAwesome**](https://fontawesome.com/) - *Responsible for the cute icons you see decorating the site.*
+- [**Animal Crossing Upscaled Sprites**](https://nookipedia.com/wiki/Category:Animal_Crossing_bug_sprites_upscaled) - *Used in my site button. There's a great page for [fish sprites](https://nookipedia.com/wiki/Category:Animal_Crossing_fish_sprites_upscaled) too!*
+- [**88x31 Button Generator**](https://88x31.datakra.sh/) - Used to make a base for the site button.
+
+----
+
+#### <i class="fa-solid fa-folder-closed" style="color: var(--hr)"></i> Old Layouts
+Here's a few screenshots of older iterations of the site. Click to open a fullview in a new tab.
+
+<details><summary><b>Version 1.0 - Quagsire</b></summary>
+It took me a bit to decide to overhaul the site after this, I had spent a lot of time making the layout from scratch! I still like how it looks, but there was a lot of messiness with how the sidebar collapsed, color themes, accessiblity, etc... I'd love to reincorporate some of these layout ideas into future layouts.
+  <figure><a href="/images/sitev1_1.png"  target="blank"><img src="/images/sitev1_1.png" alt="Screenshot of a plain, light website with a dithered sidebar."/></a><figcaption>My first foray into responsive design, I still really like the sidebar.</figcaption></figure>
+  <figure><a href="/images/sitev1_3.png"  target="blank"><img src="/images/sitev1_3.png" alt="Screenshot of a plain, dark theme website with a dithered sidebar and an array of journals."/></a><figcaption>This also had a Styleswitcher to toggle between light and dark modes! And a journal setup with categories.</figcaption></figure>
+ <figure><a href="/images/sitev1_4.png"  target="blank"><img src="/images/sitev1_4.png" alt="Screenshot of a plain, dark theme website with a dithered sidebar and information on original projects."/></a><figcaption>This site had its own planned separate section for OCs, maybe one day I'll bring that back.</figcaption><figure>
+</details>

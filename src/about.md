@@ -2,12 +2,11 @@
 title: About
 layout: base2.njk
 ---
-I go by **Petrel** (among other names you might know), this is my perpetually under construction personal site. I am in my late 20s and use they/she pronouns. I am a Ph.D. candidate in ecology and evolutionary biology, and spend a lot of my time thinking about ecosystems and the creatures that influence them behind the scenes. *(Wish I could get more specific than that, but my research is niche and thus makes me easily searchable. Oops!)* 
+I go by **Petrel** (among other names you might know), this is my perpetually under construction personal site. I am in my late 20s and use they/she pronouns. I am a Ph.D. candidate in biology, and spend a lot of my time thinking about ecosystems and the creatures that influence them behind the scenes. *(Wish I could get more specific than that, but my research is niche and thus makes me easily searchable. Oops!)* 
 
 I am a lifelong artist, digital and otherwise. I've drawn all sorts of things, but in recent years I've been more focused on [my own characters](https://toyhou.se/taxon) and those of my friends. I also am an avid [photographer](https://www.tumblr.com/atlanticflyway) and spend a lot of time looking at things outside.
 
-I find social media difficult to use these days, especially talking about myself, so I hope this site provides a way to connect with me and get to know me outside of it. You can find a list of sites I am active on (in varying levels of activity) on the homepage, and in the footer.
-
+I find social media difficult to use these days, especially talking about myself, so I hope this site provides a way to connect with me and get to know me outside of it. You can find a list of sites I am active on (in varying levels of activity) on the homepage, and in the footer.  
 
 ---
 ### Interests
@@ -68,3 +67,8 @@ I've been coding on and off since 2009, when I wanted to make petpages on [Neope
 There's a lot of types of layouts I like, from maximalist to minimal, but I do value responsive, accessible layouts. Specifically ones that reduce eye strain, especially as someone prone to headaches.
 
 Check my [credits](/credits) page for resources I used to build this site!
+
+<div class="button">
+  <img src="/images/button.png" height="100%" alt="petrel">
+<div style="width:"75%"><textarea name="" id="" cols="20" rows="1" aria-label="link-back code" class="code-textarea">&lt;a href="https://petrel.neocities.org/"&gt;&lt;img src="https://petrel.neocities.org/images/button.png" alt="petrel"&gt;&lt;/a&gt;</textarea></div>
+</div>
