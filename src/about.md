@@ -42,6 +42,7 @@ Here's a few creative interests. I love reading and writing about weird women an
 
 My favorite musicians are Sufjan Stevens, Joanna Newsom, and Owen Pallett, especially unreleased rarities in their catalogues. I'm open to many genres, but I do have a place in my heart for sad indie music evidently.
 
+
 |Favorite Songs | |
 | ------ | ------ |
 | <i class="fa-solid fa-play" style="color: var(--hr);"></i> **Berlin, Without Return** - *Voxtrot* |
