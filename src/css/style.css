@@ -314,6 +314,7 @@ header {
     font-size:1.8em;
 }
 
+
 header a, header a:visited {
     color:var(--headercolor);
 }
@@ -335,37 +336,42 @@ header a:hover, header a:focus {
   
   }
 
-    /* Modified from Cepheus */
+    /* Statuscafe */
 
   #statuscafe {
     max-height: 100px;
     overflow-y: auto;
-  padding: 2px;
-  margin-left:3px;
-  margin-right:3px;
+  padding: 1px;
   border-radius: 3px;
-  background-color: transparent;
-  border: 1px solid #aaa;
-  font-family:helvetica;
-    font-size:14px;
+    font-size: 50%;
+    opacity: 0.7;
+    margin-bottom: 0.5em;
 }
+
+#statuscafe-username, #statuscafe-time, #statuscafe-content {
+    display:inline-block;
+}
+
+
 #statuscafe-username {
   margin-bottom: 7px;
   font-style: normal;
   font-weight: bold;
-  background: var(--hr);
-  color: var(--link);
+  color: var(--hr);
   padding-left: 3px;
   padding-bottom: 0px;
+  
 }
 
 #statuscafe-username a{
 background: transparent;
-color: var(--color)}
+color: var(--link);
+}
 
 
 #statuscafe-content {
   margin-left: 5px;
+  font-style:italic;
 }
 
 

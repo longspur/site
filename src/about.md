@@ -94,11 +94,11 @@ Check my [credits](/credits) page for resources I used to build this site!
 
 <div class="button">
   <img src="/images/button.png" height="100%" alt="petrel">
-<div style="width:"75%"><textarea name="" id="" cols="20" rows="1" aria-label="link-back code" class="code-textarea">&lt;a href="https://petrel.neocities.org/"&gt;&lt;img src="https://petrel.neocities.org/images/button.png" alt="petrel"&gt;&lt;/a&gt;</textarea></div>
+<div style="width:"75%"><textarea name="" id="" cols="20" rows="1" aria-label="link-back code" class="code-textarea">&lt;a href="https://petrel.neocities.org/"&gt;&lt;img src="https://petrel.neocities.org/images/button.png" alt="petrel" title="petrel"&gt;&lt;/a&gt;</textarea></div>
 </div>
 
 <hr style="border: 1px dotted var(--hr);">
 
 #### <i class="fa-solid fa-person-hiking"></i> Web Neighbors
 
-<a href="https://tackyvillain.neocities.org/"><img src="https://tackyvillain.neocities.org/images/buttons/my_buttons/tackyvillain_web_button.png" alt="tackyvillain" title="tackyvillain"></a> 
+<a href="https://tackyvillain.neocities.org/"><img src="https://tackyvillain.neocities.org/images/buttons/my_buttons/tackyvillain_web_button.png" target="blank" alt="tackyvillain" title="tackyvillain"></a><a href="https://galaxysworst.net/" target="blank" title="gwm comic" alt="galaxy's worst mechanics"><img src="https://galaxysworst.net/assets/galaxysworst.gif"></a>

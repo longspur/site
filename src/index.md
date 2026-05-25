@@ -2,11 +2,14 @@
 title: Homepage
 layout: base2.njk
 ---
+
+
+
 Hello! I go by **Petrel** *(they/she)* among other names. I'm a biologist and hobby artist in my late 20s. I mostly work on projects with my original characters, in which I enjoy writing about weird scientist women and their issues. This is my personal site for archival purposes.
 
 <div class="button">
   <img src="/images/button.png" height="100%" alt="petrel">
-<div style="width:"75%"><textarea name="" id="" cols="20" rows="1" aria-label="link-back code" class="code-textarea">&lt;a href="https://petrel.neocities.org/"&gt;&lt;img src="https://petrel.neocities.org/images/button.png" alt="petrel"&gt;&lt;/a&gt;</textarea></div>
+<div style="width:"75%"><textarea name="" id="" cols="20" rows="1" aria-label="link-back code" class="code-textarea">&lt;a href="https://petrel.neocities.org/"&gt;&lt;img src="https://petrel.neocities.org/images/button.png" alt="petrel" title="petrel"&gt;&lt;/a&gt;</textarea></div>
 </div>
 
 
@@ -17,7 +20,7 @@ Hello! I go by **Petrel** *(they/she)* among other names. I'm a biologist and ho
 | <i class="fa-solid fa-brush" aria-hidden="true"></i> [**Art Fight**](https://artfight.net/~taxon) | _taxon_ |
 | <i class="fa-solid fa-house-user" aria-hidden="true"></i> [**Toyhouse**](https://toyhou.se/taxon) | _taxon_ |
 | <i class="fa-brands fa-patreon" aria-hidden="true"></i> [**Patreon**](https://www.patreon.com/marginalsea) | _marginalsea_ |
-| <i class="fa-solid fa-envelope" aria-hidden="true"></i> [**Mail**](mailto:etourvol@gmail.com) | _etourvol@gmail.com_ |
+| <i class="fa-solid fa-envelope" aria-hidden="true"></i> [**Mail**](mailto:etourvol@gmail.com) | _etourvol[@]gmail.com_ |
 
 
 ---
