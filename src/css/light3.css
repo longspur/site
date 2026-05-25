@@ -578,10 +578,10 @@ body {
     box-sizing: border-box;
     height: 100%;
     overflow: hidden;
+    padding: 5px;
     /* background-image: url('sparkle-bg.gif'); F2U background provided by https://sadgrl.online/webmastery/downloads/tiledbgs */
     /* background-attachment: fixed; */
     color: var(--color);
-    margin-top:1.5em;
 }
 
 #c_widget button, #c_widget input[type=submit] {
@@ -609,7 +609,7 @@ body {
     margin-bottom: 15px;
     padding: 10px;
     border-bottom: 1px dotted var(--hr);
-    margin-bottom: 15px;
+    margin-right:10px;
 }
 
 #c_widgetTitle {
@@ -625,7 +625,8 @@ body {
 
 .c-inputWrapper {
     display: block;
-    text-align: right;
+    text-align: left;
+    margin-top: 5px;
 }
 .c-input {
     padding: 4px;
@@ -633,8 +634,11 @@ body {
     border: 1px solid var(--hr);
 	outline: none;
     background-color: var(--formbg);
+    font-family: 'Inconsolata', monospace;
 }
 .c-input:focus {border: 1px solid var(--link);}
+
+
 
 .c-textInput {
     width: calc(100% - 10px);
@@ -726,3 +730,4 @@ body {
   justify-content: center;
   flex: 2 500%;
 }
+

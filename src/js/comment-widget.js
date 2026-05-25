@@ -55,7 +55,7 @@ const s_filteredWords = [ // Add words to filter by putting them in quotes and s
 // Text - Change what messages/text appear on the form and in the comments section (Mostly self explanatory)
 const s_widgetTitle = 'Leave a comment!';
 const s_nameFieldLabel = 'Name';
-const s_websiteFieldLabel = 'Site (Optional)';
+const s_websiteFieldLabel = 'Site';
 const s_textFieldLabel = '';
 const s_submitButtonLabel = 'Submit';
 const s_loadingText = 'Loading comments...';
@@ -111,9 +111,8 @@ const v_formHtml = `
 
     <div id="c_websiteWrapper" class="c-inputWrapper">
         <label class="c-label c-websiteLabel" for="entry.${s_websiteId}">${s_websiteFieldLabel}</label>
-        <input class="c-input c-websiteInput" name="entry.${s_websiteId}" id="entry.${s_websiteId}" type="url" pattern="https://.*">
+        <input class="c-input c-websiteInput" name="entry.${s_websiteId}" id="entry.${s_websiteId}" type="url" pattern="https://.*"> <span style="color:var(--hr); font-size:smaller;">(Optional)</span>
     </div>
-
     <div id="c_textWrapper" class="c-inputWrapper">
         <label class="c-label c-textLabel" for="entry.${s_textId}">${s_textFieldLabel}</label>
         <textarea class="c-input c-textInput" name="entry.${s_textId}" id="entry.${s_textId}" rows="4" cols="50"  maxlength="${s_maxLength}" required></textarea>
@@ -555,3 +554,4 @@ function changePage(dir) {
 }
 
 getComments(); // Run once on page load
+

@@ -13,6 +13,7 @@ Here is a list of resources I used when building this site. My coding style is a
 - [**External Links**](https://www.paritybit.ca/blog/styling-external-links/) - *There's a few tutorials for this out there. This allows you to add an icon next to a link that leads offsite; here it is represented by an arrow.*
 - [**11ty Blog Setup**](https://renkotsuban.neocities.org/posts/2023-11-15-Migrating-to-Eleventy) - *This is how my [newsletters](/newsletter) are organized. This is a modified version of [Zonelets](https://zonelets.net/) that works with static site generators, and allows me to organize and automate organization of my newsletters.*
 - [**Ayano's Comment Widget**](https://virtualobserver.moe/ayano/comment-widget) - *This is how my [guestbook](/guestbook) is set up, which normally does not work unless you are a Neocities supporter. Thankfully, Petra has provided a [tutorial](https://petrapixel.neocities.org/coding/widgets#comment-widget) for a version that uses iFrames for free Neocities users. I've also implemented [Frills Comment Moderation](https://frills.dev/blog/231023-add-moderation-to-comment-widget/#star1) and [Loveberry's Admin Tag](https://loveberry.nekoweb.org/resources/snippets/guide/admin/) as further customization.*
+- [**Biancarosa's Recently Played Widget**](https://github.com/biancarosa/lastfm-last-played) - *This is on my [about](/about) page, and displays the most recently played song on my last.fm.*
 
 
 ----

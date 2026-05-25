@@ -2,6 +2,10 @@
 title: About
 layout: base2.njk
 ---
+<i class="fa-solid fa-calendar-days" style="color: var(--hr)"></i> *Last Updated: May 2026*
+
+---
+
 I go by **Petrel** (among other names you might know), this is my perpetually under construction personal site. I am in my late 20s and use they/she pronouns. I am a Ph.D. candidate in biology, and spend a lot of my time thinking about ecosystems and the creatures that influence them behind the scenes. *(Wish I could get more specific than that, but my research is niche and thus makes me easily searchable. Oops!)* 
 
 I am a lifelong artist, digital and otherwise. I've drawn all sorts of things, but in recent years I've been more focused on [my own characters](https://toyhou.se/taxon) and those of my friends. I also am an avid [photographer](https://www.tumblr.com/atlanticflyway) and spend a lot of time looking at things outside.
@@ -9,12 +13,7 @@ I am a lifelong artist, digital and otherwise. I've drawn all sorts of things, b
 I find social media difficult to use these days, especially talking about myself, so I hope this site provides a way to connect with me and get to know me outside of it. You can find a list of sites I am active on (in varying levels of activity) on the homepage, and in the footer.  
 
 ---
-### Interests
-<i class="fa-solid fa-calendar-days" style="color: var(--hr)"></i> *Last Updated: May 2026*
-
----
-
-#### <i class="fa-solid fa-seedling"></i> General
+#### <i class="fa-solid fa-seedling"></i> General Interests
 A lot of my interests are natural history related, but here's an attempt to narrow down some specifics. Come talk to me about any of these!
 
 - Birds
@@ -40,6 +39,31 @@ Here's a few creative interests. I love reading and writing about weird women an
 #### <i class="fa-solid fa-music"></i> Music
 
 My favorite musicians are Sufjan Stevens, Joanna Newsom, and Owen Pallett, especially unreleased rarities in their catalogues. I'm open to many genres, but I do have a place in my heart for sad indie music evidently.
+
+
+<hr style="border: 1px dotted var(--hr);">
+
+What am I listening to lately?
+
+<div class="header__inner">
+    <p><i class="fa-solid fa-headphones"></i> <span id="song" style="font-weight:bold;">Loading most recently played song... &#8987;</span></p>
+</div>
+<div class="header__inner">
+    <p><small>Most recently played from: <a href="https://www.last.fm/user/lumiose" target="_blank">last.fm</a></small> | <small>Code: <a
+                href="https://github.com/biancarosa/lastfm-last-played"
+                target="_blank">@biancarosa</a></small></p>
+</div>
+<script type="text/javascript">
+    let user = 'lumiose';
+    let url = 'https://lastfm-last-played.biancarosa.com.br/' + user + '/latest-song';
+    let song = document.querySelector('#song');
+    fetch(url)
+        .then(function (response) {
+            return response.json()
+        }).then(function (json) {
+            song.innerHTML = json['track']['name'] + ' - ' + json['track']['artist']['#text'];
+        });
+</script>
 
 
 |Favorite Songs | |
@@ -72,3 +96,9 @@ Check my [credits](/credits) page for resources I used to build this site!
   <img src="/images/button.png" height="100%" alt="petrel">
 <div style="width:"75%"><textarea name="" id="" cols="20" rows="1" aria-label="link-back code" class="code-textarea">&lt;a href="https://petrel.neocities.org/"&gt;&lt;img src="https://petrel.neocities.org/images/button.png" alt="petrel"&gt;&lt;/a&gt;</textarea></div>
 </div>
+
+<hr style="border: 1px dotted var(--hr);">
+
+#### <i class="fa-solid fa-person-hiking"></i> Web Neighbors
+
+<a href="https://tackyvillain.neocities.org/"><img src="https://tackyvillain.neocities.org/images/buttons/my_buttons/tackyvillain_web_button.png" alt="tackyvillain" title="tackyvillain"></a> 
