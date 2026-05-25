@@ -4,13 +4,18 @@ layout: base2.njk
 ---
 
 
+  <div id="statuscafe"> <i class="fa-solid fa-bullhorn" style="margin-right:1em;"></i><div id="statuscafe-username"> </div>
+  <div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=petrel" defer></script>
 
 Hello! I go by **Petrel** *(they/she)* among other names. I'm a biologist and hobby artist in my late 20s. I mostly work on projects with my original characters, in which I enjoy writing about weird scientist women and their issues. This is my personal site for archival purposes.
+
+
 
 <div class="button">
   <img src="/images/button.png" height="100%" alt="petrel">
 <div style="width:"75%"><textarea name="" id="" cols="20" rows="1" aria-label="link-back code" class="code-textarea">&lt;a href="https://petrel.neocities.org/"&gt;&lt;img src="https://petrel.neocities.org/images/button.png" alt="petrel" title="petrel"&gt;&lt;/a&gt;</textarea></div>
 </div>
+
 
 
 | Other Sites   |   Username |
