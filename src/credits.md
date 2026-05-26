@@ -1,6 +1,7 @@
 ---
 title: Credits
 layout: base2.njk
+permalink: credits.html
 ---
 Here is a list of resources I used when building this site. My coding style is akin to duct taping a lot of things together and might fall apart if you look at it the wrong way, but this is where I get the components from.
 

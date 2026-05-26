@@ -1,6 +1,7 @@
 ---
 title: Guestbook
 layout: base2.njk
+permalink: guestbook.html
 ---
 
 Welcome to my guestbook! Feel free to say hi.
