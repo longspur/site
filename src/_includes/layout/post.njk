@@ -11,26 +11,12 @@
 <title>Field Notes: {{ title }} - Newsletter</title>
  <meta name="description" content="Field Notes, a newsletter by Petrel.">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="{{ title }}">
+    <meta property="og:title" content="Field Notes: {{ title }}">
     <meta property="og:url" content="https://petrel.neocities.org/{{ permalink }}">
     <meta property="og:image" content="https://petrel.neocities.org/images/{{ featured_image }}">
-    <meta property="og:description" content="{{ description }}">
+    <meta property="og:description" content="A regular-ish newsletter. {{ description }}">
 </head>
 
-
-<head>
-    <title>My Cool Blog: {{ title }}</title>
-    <link href="https://yourwebsitehere.com/rss.xml" rel="alternate" type="application/rss+xml" title="RSS feed for My Cool Blog">
-    <link href="styles/style.css" rel="stylesheet" type="text/css" media="all">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="This is the description for My Cool Blog!">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="{{ title }}">
-    <meta property="og:url" content="https://yourwebsitehere.com/{{ permalink }}">
-    <meta property="og:image" content="https://yourwebsitehere.com/images/{{ featured_image }}">
-    <meta property="og:description" content="{{ description }}">
-  </head>
 
 
 
@@ -56,7 +42,7 @@
 <!-- Content start -->
 <main id="content">
 <section>
-        <h2>{{ title }}</h2>
+        <h2>Field Notes: <i>{{ title }}</i></h2>
         <p style="color: var(--hr)"><strong><i class="fa-solid fa-calendar-days"></i> <i>{{ date | topDate }}</i></strong></p>
         {% include "partials/blognav.njk" %}
         <hr class="one">
