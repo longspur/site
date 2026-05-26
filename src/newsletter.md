@@ -3,7 +3,7 @@ layout: base2.njk
 permalink: newsletter.html
 title: Newsletter
 description: Archive of newsletter posts.
-featured_image: favicon.png
+featured_image: /images/newsletter/may2026_1.png
 ---
 
 This is an archive of my free newsletter, *Field Notes*, which I currently distribute via [**Patreon**](https://www.patreon.com/marginalsea) roughly once a month. Patreon allows you to receive email updates and interact, but the actual content itself can be found below. I am toying with the idea of including comment functionality at some point, but for now feel free to leave comments on Patreon.
@@ -32,12 +32,13 @@ You will find photographs here are [dithered](https://app.dithermark.com/), this
 {% endfor %}
 </ul>
 
----
+<hr style="border: 1px dotted var(--hr);">
 
-#### <i class="fa-solid fa-calendar-day"></i> 2026
+#### <i class="fa-solid fa-calendar-day"></i> Year
+*Chronological archive by year.*
+
+<details style="background:none;"> <summary><b>2026</b></summary>
 <!--This next part shows all of your posts tagged "y2026" in reverse chronological order-->
-
-*Archive by year, in month order.*
 
 <ul class="none">
 {% assign top_y2026 = collections.y2026 %}
@@ -45,9 +46,10 @@ You will find photographs here are [dithered](https://app.dithermark.com/), this
   <li><a href="{{ post.data.permalink }}">{{ post.data.date | readableDate }} » {{ post.data.title }}</a></li>
 {% endfor %}
 </ul>
+</details>
 
 
 ---
 
-<i class="fa-solid fa-code"></i> Tutorial for this setup using 11ty by [Midnight Reading](https://renkotsuban.neocities.org/posts/2023-11-15-Migrating-to-Eleventy).
+<i class="fa-solid fa-code" style="color:var(--hr);"></i> Tutorial for this setup using 11ty by [Midnight Reading](https://renkotsuban.neocities.org/posts/2023-11-15-Migrating-to-Eleventy).
 

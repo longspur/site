@@ -8,9 +8,11 @@ layout: base2.njk
 
 I go by **Petrel** (among other names you might know), this is my perpetually under construction personal site. I am in my late 20s and use they/she pronouns. I am a Ph.D. candidate in biology, and spend a lot of my time thinking about ecosystems and the creatures that influence them behind the scenes. *(Wish I could get more specific than that, but my research is niche and thus makes me easily searchable. Oops!)* 
 
-I am a lifelong artist, digital and otherwise. I've drawn all sorts of things, but in recent years I've been more focused on [my own characters](https://toyhou.se/taxon) and those of my friends. I also am an avid [photographer](https://www.tumblr.com/atlanticflyway) and spend a lot of time looking at things outside.
+I am an artist, digital and otherwise. I've drawn all sorts of things, but in recent years I've been more focused on [my own characters](https://toyhou.se/taxon) and those of my friends. I also am an avid [photographer](https://www.tumblr.com/atlanticflyway) and spend a lot of time looking at things outside.
 
-I find social media difficult to use these days, especially talking about myself, so I hope this site provides a way to connect with me and get to know me outside of it. You can find a list of sites I am active on (in varying levels of activity) on the homepage, and in the footer.  
+<details><summary><b>Why a personal site?</b></summary>
+I have a really difficult time using social media these days, for a variety of personal reasons. Despite that, I still miss talking about my interests and keeping up with friends. I hope this is an alternative way for people to get to know me, keep up, and connect. And also it's good enrichment to have an ongoing creative project to gnaw on.
+</details>
 
 ---
 #### <i class="fa-solid fa-seedling"></i> General Interests
@@ -72,7 +74,7 @@ What am I listening to lately?
 | <i class="fa-solid fa-play" style="color: var(--hr);"></i> **I Am Not Afraid** - *Owen Pallett* 
 | <i class="fa-solid fa-play" style="color: var(--hr);"></i> **Majesty Snowbird** - *Sufjan Stevens* 
 | <i class="fa-solid fa-play" style="color: var(--hr);"></i> **Ontario Gothic** - *Foxes in Fiction*
-| <i class="fa-solid fa-play" style="color: var(--hr);"></i> **Paris** - *Geographer*
+| <i class="fa-solid fa-play" style="color: var(--hr);"></i> **Go Long** - *Joanna Newsom*
 | <i class="fa-solid fa-play" style="color: var(--hr);"></i> **Moonlight on the River** - *Mac DeMarco*
 
 |Favorite Albums | |
@@ -96,9 +98,12 @@ Check my [credits](/credits) page for resources I used to build this site!
   <img src="/images/button.png" height="100%" alt="petrel">
 <div style="width:"75%"><textarea name="" id="" cols="20" rows="1" aria-label="link-back code" class="code-textarea">&lt;a href="https://petrel.neocities.org/"&gt;&lt;img src="https://petrel.neocities.org/images/button.png" alt="petrel" title="petrel"&gt;&lt;/a&gt;</textarea></div>
 </div>
+<figcaption>Grab a souvenir?</figcaption>
 
 <hr style="border: 1px dotted var(--hr);">
 
 #### <i class="fa-solid fa-person-hiking"></i> Web Neighbors
 
-<a href="https://tackyvillain.neocities.org/"><img src="https://tackyvillain.neocities.org/images/buttons/my_buttons/tackyvillain_web_button.png" target="blank" alt="tackyvillain" title="tackyvillain"></a><a href="https://galaxysworst.net/" target="blank" title="gwm comic" alt="galaxy's worst mechanics"><img src="https://galaxysworst.net/assets/galaxysworst.gif"></a>
+Sites by friends, or ones I otherwise enjoy. *(88x31 buttons only!)*
+
+<a href="https://tackyvillain.neocities.org/"><img src="https://tackyvillain.neocities.org/images/buttons/my_buttons/tackyvillain_web_button.png" target="blank" alt="tackyvillain" title="tackyvillain"></a><a href="https://galaxysworst.net/" target="blank" title="gwm comic" alt="galaxy's worst mechanics"><img src="https://galaxysworst.net/assets/galaxysworst.gif"></a><a href="https://geoledgy.neocities.org"><img src="https://geoledgy.neocities.org/img/buttons/geoledgy.gif" alt="geoledgy" title="Rocky Atomica's Field Notes"></a>
