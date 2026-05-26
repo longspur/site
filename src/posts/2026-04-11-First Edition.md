@@ -4,7 +4,7 @@ permalink: posts/2026-First.html
 title: First Edition
 date: 2026-04-11
 description: First newsletter edition.
-featured_image: /images/newsletter/2026/firstedition_1.png
+featured_image: newsletter/2026/firstedition_1.png
 tags:
   - newsletter
   - y2026
