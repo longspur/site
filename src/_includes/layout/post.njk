@@ -49,13 +49,20 @@
         <!--You can change how topDate looks in your .eleventy.js file-->
         {{ content | safe }}
 
+<p style="text-align:center;"><a href="#top">Back to top</a> &bull; <a href="#menu">Back to menu</a></p>{% include "partials/blognav.njk" %}
+
+<hr style="border: 1px dotted var(--hr);">
+<h3>Leave a comment!</h3>
+<i>These are manually approved, and may not appear immediately.</i>
+        {% include "partials/comments.njk" %}
         
     </main>
+
 </section>
 
 <!-- Footer start -->
 <footer>
-<p><a href="#top">Back to top</a> &bull; <a href="#menu">Back to menu</a></p>{% include "partials/blognav.njk" %}
+
  <br><footer>{% include "partials/footer.njk" %}</footer>
 </footer>
 <!-- Footer end -->
