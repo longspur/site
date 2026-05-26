@@ -1,6 +1,7 @@
 ---
 title: Homepage
 layout: base2.njk
+permalink: index.html
 ---
 
 
@@ -32,10 +33,10 @@ Hello! I go by **Petrel** *(they/she)* among other names. I'm a biologist and ho
 
 ### <i class="fa-solid fa-radio"></i> Updates
 *Something look funny? Try **hard refreshing!** (CTRL + F5 on PC)*
+> - **26 May 2026:** Broke all the site permalinks (oops!), but hopefully fixed them? Hard refresh if you're getting page not founds. Also, added comment sections to newsletters.
 > - **24 May 2026:** Site button, guestbook, other widgets added.
 > - **23 May 2026:** Uploaded images, made external links have an ↗ next to them, redid site links/about page
-> - **12 May 2026:** Working on mobile responsiveness, sorted newsletter by year
-> - **11 May 2026:** Overhauled site layout, created light/dark mode, began mirroring newsletter
+> - **[» See older updates](/updates)**
 ---
 
 <!-- This next part will show your top three most recent posts. You can change how readableDate looks in your .eleventy.js file-->

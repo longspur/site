@@ -6,7 +6,7 @@ description: Archive of newsletter posts.
 featured_image: /images/newsletter/may2026_1.png
 ---
 
-This is an archive of my free newsletter, *Field Notes*, which I currently distribute via [**Patreon**](https://www.patreon.com/marginalsea) roughly once a month. Patreon allows you to receive email updates and interact, but the actual content itself can be found below. I am toying with the idea of including comment functionality at some point, but for now feel free to leave comments on Patreon.
+This is an archive of my free newsletter, *Field Notes*, which I currently distribute via [**Patreon**](https://www.patreon.com/marginalsea) roughly once a month. Patreon allows you to receive email updates and interact, but the actual content is crossposted here (with its own separate comment section).
 
 <details><summary><b>Why write a newsletter?</b></summary> 
 

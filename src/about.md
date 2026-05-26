@@ -1,6 +1,7 @@
 ---
 title: About
 layout: base2.njk
+permalink: about.html
 ---
 <i class="fa-solid fa-calendar-days" style="color: var(--hr)"></i> *Last Updated: May 2026*
 
@@ -11,7 +12,7 @@ I go by **Petrel** (among other names you might know), this is my perpetually un
 I am an artist, digital and otherwise. I've drawn all sorts of things, but in recent years I've been more focused on [my own characters](https://toyhou.se/taxon) and those of my friends. I also am an avid [photographer](https://www.tumblr.com/atlanticflyway) and spend a lot of time looking at things outside.
 
 <details><summary><b>Why a personal site?</b></summary>
-I have a really difficult time using social media these days, for a variety of personal reasons. Despite that, I still miss talking about my interests and keeping up with friends. I hope this is an alternative way for people to get to know me, keep up, and connect. And also it's good enrichment to have an ongoing creative project to gnaw on.
+I have a really difficult time using social media these days, for a variety of personal reasons. Despite that, I still miss talking about my interests and keeping up with friends. I hope this is an alternative way for people to get to know me, keep up, and connect. And also it's good creative enrichment.
 </details>
 
 ---
@@ -34,7 +35,6 @@ Here's a few creative interests. I love reading and writing about weird women an
 - Culinary Science
 - Pokemon
 - Original Characters (OCs)
-- Music
 
 ---
 
