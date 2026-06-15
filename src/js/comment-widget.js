@@ -17,7 +17,7 @@
 */
 
 // The values in this section are REQUIRED for the widget to work! Keep them in quotes!
-const s_stylePath = '/css/style';
+const s_stylePath = 'style';
 const s_formId = '1FAIpQLSdrOulO5rL7v26MsA6aJT-n1G8XXaQnJLxO9UkvWmPf-nCXPw';
 const s_nameId = '906854851';
 const s_websiteId = '1787518722';
@@ -79,20 +79,17 @@ if (s_fixRarebitIndexPage) {s_includeUrlParameters = true}
 
 // Apply CSS
 const c_cssLink = document.createElement('link');
+c_cssLink.id = 'switch';
 c_cssLink.type = 'text/css';
 c_cssLink.rel = 'stylesheet';
-c_cssLink.href = s_stylePath;
-document.getElementsByTagName('head')[0].appendChild(c_cssLink);
-function changeStyle(style) {
-    if (style == null)
-        style = localStorage.getItem("style");
-        if (style == null) 
-            style = "/css/style";
-    document.querySelector("link[type='text/css']").setAttribute("href", style + ".css");
-    localStorage.setItem("style", style);
-}
 
-changeStyle();
+const style = localStorage.getItem('style') || 'style';
+c_cssLink.href = '/css/' + style + '.css';
+document.getElementsByTagName('head')[0].appendChild(c_cssLink);
+
+document.getElementById('c_widget').style.fontFamily =
+    '"Inconsolata", monospace';
+
 
 // HTML Form
 const v_mainHtml = `
