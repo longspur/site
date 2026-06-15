@@ -1,6 +1,6 @@
 ---
 layout: post.njk
-permalink: posts/2026-First.html
+permalink: newsletter/2026-First.html
 title: First Edition
 date: 2026-04-11
 description: First newsletter edition.

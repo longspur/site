@@ -1,3 +1,50 @@
+:root {
+    /* Background and text color */
+    --background:#e8e3d6;
+    --color:#212c2c;
+    
+    /* "Table" borders */
+   /* --borderstyle: 2px solid var(--bordercolor);
+    --bordercolor:#FFF;  /*
+    
+    /* Container */
+    --container:#e8e3d6;
+    
+    /* Header */
+    /* --header:#dac4ff; */
+    --headercolor:#212c2c;
+    --headerhover:#3c6d70;
+    
+    /* Sidebar */
+    /*--sidebar:#ffceea;*/
+    --sidebarlink:#804E00;
+    --sidebarlinkhover:#3c6d70;
+    
+    /* Main content */
+    /*--main:#defadf;*/
+    --link:#804E00;
+    --linkhover:#3c6d70;
+   /* --linkvisited:#804E00;*/
+    
+    /* Footer */
+   /* --footer:#dac4ff;*/
+    --footercolor:#212c2c;
+    --footerlink:#804E00;
+    --footerlinkhover:#3c6d70;
+
+        /* Extra */
+
+    --formbg:#f4f1e9;
+	--formcolor:#212c2c;
+	
+	--accentbg:#e0d9c6;
+	--hr: #bb9860;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+
+/* COMMENT BOX */
 /*
     Below you will be able to freely customize every aspect of the comment widget.
     Most aspects of the widget are 100% able to be customized in CSS, but for strong structural changes,
@@ -58,40 +105,38 @@
     box-sizing: border-box;
     height: 100%;
     overflow: hidden;
-    padding: 20px;
+    padding: 5px;
     /* background-image: url('sparkle-bg.gif'); F2U background provided by https://sadgrl.online/webmastery/downloads/tiledbgs */
     /* background-attachment: fixed; */
-    font-family: 'Inconsolata', monospace;
-    font-size: 16px;
-    color: white;
+    color: var(--color);
 }
 
 #c_widget button, #c_widget input[type=submit] {
     padding: 4px;
-    font-family: 'Courier New';
+    font-family: 'Inconsolata', monospace;
     text-decoration: none;
 	text-align: center;
     text-transform: uppercase;
-    background-color: black;
-    color: #B766FF;
-    border: 1px solid white;
+    background-color: var(--hr);
+    color: var(--accentbg);
+    border: 1px solid var(--hr);
 }
 #c_widget button:hover, #c_widget input[type=submit]:hover {
-    color: white;
-    border: 1px solid #B766FF;
+    color: var(--color);
+    border: 1px solid var(--hr);
 }
 #c_widget button:disabled, #c_widget input[type=submit]:disabled {opacity: 60%;}
 #c_widget button:disabled:hover, #c_widget input[type=submit]:disabled:hover {
-    color: #B766FF;
-    border: 1px solid white;
+    color: var(--accentbg);
+    border: 1px solid var(--hr);
 }
 
 /* Input section */
 #c_inputDiv {
     margin-bottom: 15px;
     padding: 10px;
-    background-color: rgba(61, 61, 61, 0.2);
-    border: 2px solid  rgba(61, 61, 61, 0.2);
+    border-bottom: 1px dotted var(--hr);
+    margin-right:10px;
 }
 
 #c_widgetTitle {
@@ -102,20 +147,24 @@
     font-style: italic;
     font-weight: bold;
     text-align: right;
-    background-color: #2D0B52;
+    background-color: var(--hr);
 }
 
 .c-inputWrapper {
     display: block;
-    text-align: right;
+    text-align: left;
+    margin-top: 5px;
 }
 .c-input {
     padding: 4px;
-    color: black;
-    border: 1px solid #2D0B52;
+    color: var(--color);
+    border: 1px solid var(--hr);
 	outline: none;
+    background-color: var(--formbg);
+    font-family: 'Inconsolata', monospace;
 }
-.c-input:focus {border: 1px solid #B766FF;}
+.c-input:focus {border: 1px solid var(--link);}
+
 
 .c-textInput {
     width: calc(100% - 10px);
@@ -128,7 +177,6 @@
     margin-right: 0;
 }
 #c_replyingText {
-    color: white;
     text-align: right;
 }
 
@@ -136,8 +184,7 @@
 .c-comment {
     margin-bottom: 15px;
     padding: 10px;
-    border: 2px solid white;
-    background-color: #2D0B52; 
+
 }
 .c-reply {
     display: block;
@@ -146,15 +193,15 @@
     margin-left: auto;
     margin-right: 0;
     padding: 10px;
-    border: 2px solid white;
-    background-color: #2D0B52; 
+    background-color: var(--accentbg); 
+        border-bottom: 1px solid var(--hr);
 }
 .c-reply:last-child {margin-bottom: 0;}
 .c-replyContainer {
     margin: -10px;
     margin-top: 10px;
     padding: 10px;
-    background-color: black;
+    /* background-color: var(--hr); */
 }
 
 .c-name {
@@ -164,13 +211,14 @@
     padding: 0;
     text-transform: uppercase;
     font-weight: bold;
+        border-bottom: 1px solid var(--hr);
 }
 .c-site {
     text-transform: uppercase;
     text-decoration: none;
-    color: #B766FF;
+    color: var(--link);
 }
-.c-site:hover {color: white;}
+
 .c-timestamp {
     float: right;
     opacity: 75%;
@@ -180,11 +228,8 @@
     margin-left: -10px;
     margin-right: -10px;
     padding: 10px;
-    font-family: Verdana;
     font-size: 14px;
     text-align: justify;
-    color: white;
-    background-color: black;
 }
 
 /* Pagination */

@@ -4,17 +4,22 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <link rel="shortcut icon" href="/images/beetle.gif" type="image/x-icon">
-   <script src="https://kit.fontawesome.com/ada44e2de9.js" crossorigin="anonymous"></script>
-  <link type="text/css" rel="stylesheet" media="all" href="/css/style.css" id="theme_css" />
-
-    <script type = "text/javascript" src="/js/switch.js"></script>
-<title>Field Notes: {{ title }} - Newsletter</title>
- <meta name="description" content="Field Notes, a newsletter by Petrel.">
+    <meta name="description" content="Field Notes, a newsletter by Petrel.">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Field Notes: {{ title }}">
     <meta property="og:url" content="https://petrel.neocities.org/{{ permalink }}">
     <meta property="og:image" content="https://petrel.neocities.org/images/{{ featured_image }}">
     <meta property="og:description" content="A regular-ish newsletter. {{ description }}">
+
+
+<title>Field Notes: {{ title }} - Newsletter</title>
+<script src="https://kit.fontawesome.com/ada44e2de9.js" crossorigin="anonymous"></script>
+
+<!-- Style Switcher -->
+<link href="/css/style.css" rel="stylesheet" type="text/css" media="all">
+<script type = "text/javascript" src="/js/switch.js"></script>
+
+
 </head>
 
 
@@ -54,10 +59,10 @@
 <h3>Leave a comment!</h3>
 <i>These are manually approved, and may not appear immediately.</i>
         {% include "partials/comments.njk" %}
-        
+        </section>
     </main>
 
-</section>
+
 
 <!-- Footer start -->
 <footer>

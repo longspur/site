@@ -2,9 +2,10 @@ function changeStyle(style) {
     if (style == null)
         style = localStorage.getItem("style");
         if (style == null) 
-            style = "/css/style";
-    document.querySelector("link[type='text/css']").setAttribute("href", style + ".css");
+            style = "style";
+    document.querySelector("link[id='switch']").setAttribute("href", "/css/" + style + ".css");
     localStorage.setItem("style", style);
 }
 
 changeStyle();
+
