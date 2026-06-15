@@ -33,7 +33,7 @@ Hello! I go by **Petrel** *(they/she)* among other names. I'm a biologist and ho
 
 ### <i class="fa-solid fa-radio"></i> Updates
 *Something look funny? Try **hard refreshing!** (CTRL + F5 on PC)*
-> - **14 Jun 2024:** Doing some cleanup of the Styleswitcher, none of which may be visible to you but hopefully will make the code easier to update on the backend. Some things may display strangely, but there's a new theme for your trouble... **Earthy!**
+> - **14 Jun 2024:** Doing some cleanup of the Styleswitcher, none of which will be visible to you but hopefully will make the code easier to update on the backend.
 > - **26 May 2026:** Broke all the site permalinks (oops!), but hopefully fixed them? Hard refresh if you're getting page not founds. Also, added comment sections to newsletters.
 > - **24 May 2026:** Site button, guestbook, other widgets added.
 > - **[» See older updates](/updates)**
