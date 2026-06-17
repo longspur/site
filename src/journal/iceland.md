@@ -6,21 +6,25 @@ description: Iceland 2026
 featured_image: /images/gallery/iceland/seltjarnarnes2.png
 ---
 
-
 | Trip Information   |   |
 | -------- | -------- |
 | <i class="fa-solid fa-location-dot" style="color:var(--hr)"></i> *Reykjavík, Iceland* |
 <i class="fa-solid fa-calendar-days" style="color:var(--hr)"></i> *June 2026* | |
-
 
 This was 95% work trip (conference), 5% exploration, but despite working most of the time I still got to see some really cool sights! The city was nice, but I'm glad we were able to rent a car to go see the nature beyond the city for a few days.
 
 Reykjavík reminds me of a larger Galway, and I appreciated how walkable it was. My wallet, however, did not appreciate the food costs... grocery prices were okay though, and I was living off skyr (yogurt) for breakfast, to which the grocery stores have their own dedicated refrigerator room for it.
 
 
+<i class="fa-solid fa-arrow-pointer"></i> *Click on any picture below in the gallery to see it larger!*
+
+
 ---
 #### <i class="fa-solid fa-person-hiking" style="color: var(--hr)"></i> Places
+
 Lots of pretty and varied landscapes here shaped by volcanic eruptions, faults between two tectonic plates, and more.
+
+
 <hr style="border: 1px dotted var(--hr);">
 
 {% include "partials/gallery.njk" %}
@@ -286,7 +290,7 @@ The moss here was really cool, a lot of it was growing on top of cooled lava flo
   <a data-fslightbox="plants" href="/images/gallery/iceland/lupine.png">
     <img src="/images/gallery/iceland/lupine.png" alt="Moss Campion" loading="lazy">
   </a>
-  <div class="desc"><b>Nootka Lupine <span style="color:var(--hr)">(Introduced)</span></b>
+  <div class="desc"><b>Nootka Lupine</b> <span style="color:var(--hr)">(Introduced)</span>
   <br><i style="opacity: 0.7;">Lupinus nootkatensis</i></div>
 </div>
 
