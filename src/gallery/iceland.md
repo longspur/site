@@ -2,8 +2,8 @@
 title: Iceland
 layout: base2.njk
 permalink: journal/iceland.html
-description: First newsletter edition.
-featured_image: gallery/iceland/seltjarnarnes2.png
+description: Iceland 2026
+featured_image: journal/iceland/seltjarnarnes2.png
 ---
 
 
