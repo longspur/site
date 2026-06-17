@@ -3,7 +3,7 @@ title: Iceland
 layout: base2.njk
 permalink: journal/iceland.html
 description: Iceland 2026
-featured_image: journal/iceland/seltjarnarnes2.png
+featured_image: /images/gallery/iceland/seltjarnarnes2.png
 ---
 
 
@@ -270,7 +270,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 #### <i class="fa-solid fa-seedling" style="color: var(--hr)"></i> Plants
 
-The moss here was really cool, a lot of it was growing on top of cooled lava flows. Finally got to see some tundra/arctic plants as well. The blooms were attracting Heath Bumblebee, to which I didn't get many clear pictures of unfortuntaely.
+The moss here was really cool, a lot of it was growing on top of cooled lava flows. Finally got to see some tundra/arctic plants as well. The blooms were attracting Heath Bumblebee, to which I didn't get many clear pictures of unfortunately.
 
 <div class="gallery">
 
