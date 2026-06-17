@@ -30,7 +30,7 @@ Lots of pretty and varied landscapes here shaped by volcanic eruptions, faults b
 
 <div class="gallery-item">
   <a data-fslightbox="places" href="/images/gallery/iceland/thingvellir1.png">
-    <img src="/images/gallery/iceland/thingvellir1.png" alt="Tectonic Plate Boundaries at Thingvellir">
+    <img src="/images/gallery/iceland/thingvellir1.png" alt="Tectonic Plate Boundaries at Thingvellir" loading="lazy">
   </a>
   <div class="desc"><b>Þingvellir National Park</b>
   <br><i style="opacity: 0.7;">Looking at the tectonic boundary between the Eurasian and North American plates.</i></div>
@@ -38,7 +38,7 @@ Lots of pretty and varied landscapes here shaped by volcanic eruptions, faults b
 
 <div class="gallery-item">
   <a data-fslightbox="places" href="/images/gallery/iceland/thingvellir2.png">
-    <img src="/images/gallery/iceland/thingvellir2.png" alt="Tectonic rift Silfra filled with water">
+    <img src="/images/gallery/iceland/thingvellir2.png" alt="Tectonic rift Silfra filled with water" loading="lazy">
   </a>
  <div class="desc"><b>Þingvellir National Park</b>
   <br><i style="opacity: 0.7;">Silfra Rift, a fissure from the plates moving apart.</i></div>
@@ -46,7 +46,7 @@ Lots of pretty and varied landscapes here shaped by volcanic eruptions, faults b
 
 <div class="gallery-item">
   <a data-fslightbox="places" href="/images/gallery/iceland/thingvellir3.png">
-    <img src="/images/gallery/iceland/thingvellir3.png" alt="Looking on the continental divide valley">
+    <img src="/images/gallery/iceland/thingvellir3.png" alt="Looking on the continental divide valley" loading="lazy">
   </a>
 <div class="desc"><b>Þingvellir National Park</b>
   <br><i style="opacity: 0.7;">Looking on the continental divide.</i></div>
@@ -54,7 +54,7 @@ Lots of pretty and varied landscapes here shaped by volcanic eruptions, faults b
 
 <div class="gallery-item">
   <a data-fslightbox="places" href="/images/gallery/iceland/thingvellir4.png">
-    <img src="/images/gallery/iceland/thingvellir4.png" alt="River flowing down from mountains">
+    <img src="/images/gallery/iceland/thingvellir4.png" alt="River flowing down from mountains" loading="lazy">
   </a>
   <div class="desc"><b>Þingvellir National Park</b>
   <br><i style="opacity: 0.7;">River.</i></div>
@@ -62,7 +62,7 @@ Lots of pretty and varied landscapes here shaped by volcanic eruptions, faults b
 
 <div class="gallery-item">
   <a data-fslightbox="places" href="/images/gallery/iceland/thingvellir6.png">
-    <img src="/images/gallery/iceland/thingvellir6.png" alt="Silfra Rift filled wtih water">
+    <img src="/images/gallery/iceland/thingvellir6.png" alt="Silfra Rift filled wtih water" loading="lazy">
   </a>
   <div class="desc"><b>Þingvellir National Park</b>
   <br><i style="opacity: 0.7;">Silfra Rift, from the ground</i></div>
@@ -70,7 +70,7 @@ Lots of pretty and varied landscapes here shaped by volcanic eruptions, faults b
 
 <div class="gallery-item">
   <a data-fslightbox="places" href="/images/gallery/iceland/vestmannaeyjar1.png">
-    <img src="/images/gallery/iceland/vestmannaeyjar1.png" alt="Volcanic slope with a pond">
+    <img src="/images/gallery/iceland/vestmannaeyjar1.png" alt="Volcanic slope with a pond" loading="lazy">
   </a>
   <div class="desc"><b>Vestmannaeyjar</b>
   <br><i style="opacity: 0.7;">Volcanic slopes</i></div>
@@ -78,7 +78,7 @@ Lots of pretty and varied landscapes here shaped by volcanic eruptions, faults b
 
 <div class="gallery-item">
   <a data-fslightbox="places" href="/images/gallery/iceland/vestmannaeyjar2.png">
-    <img src="/images/gallery/iceland/vestmannaeyjar2.png" alt="Rocky cliffs on ocean">
+    <img src="/images/gallery/iceland/vestmannaeyjar2.png" alt="Rocky cliffs on ocean" loading="lazy">
   </a>
   <div class="desc"><b>Vestmannaeyjar</b>
   <br><i style="opacity: 0.7;">Rocky cliffs, full of seabirds</i></div>
@@ -86,7 +86,7 @@ Lots of pretty and varied landscapes here shaped by volcanic eruptions, faults b
 
 <div class="gallery-item">
   <a data-fslightbox="places" href="/images/gallery/iceland/vestmannaeyjar3.png">
-    <img src="/images/gallery/iceland/vestmannaeyjar3.png" alt="Sharp cliffs with lots of flying seabirds">
+    <img src="/images/gallery/iceland/vestmannaeyjar3.png" alt="Sharp cliffs with lots of flying seabirds" loading="lazy">
   </a>
   <div class="desc"><b>Vestmannaeyjar</b>
   <br><i style="opacity: 0.7;">More seabird cliffs and puffin burrows</i></div>
@@ -94,7 +94,7 @@ Lots of pretty and varied landscapes here shaped by volcanic eruptions, faults b
 
 <div class="gallery-item">
   <a data-fslightbox="places" href="/images/gallery/iceland/seltjarnarnes1.png">
-    <img src="/images/gallery/iceland/seltjarnarnes1.png" alt="Lake with houses and mountains in background">
+    <img src="/images/gallery/iceland/seltjarnarnes1.png" alt="Lake with houses and mountains in background" loading="lazy">
   </a>
   <div class="desc"><b>Seltjarnarnes</b>
   <br><i style="opacity: 0.7;">Lake filled with lots of birds</i></div>
@@ -102,7 +102,7 @@ Lots of pretty and varied landscapes here shaped by volcanic eruptions, faults b
 
 <div class="gallery-item">
   <a data-fslightbox="places" href="/images/gallery/iceland/seltjarnarnes2.png">
-    <img src="/images/gallery/iceland/seltjarnarnes2.png" alt="Mountains behind Seltjarnarnes">
+    <img src="/images/gallery/iceland/seltjarnarnes2.png" alt="Mountains behind Seltjarnarnes" loading="lazy">
   </a>
   <div class="desc"><b>Seltjarnarnes</b>
   <br><i style="opacity: 0.7;">More mountains!</i></div>
@@ -110,7 +110,7 @@ Lots of pretty and varied landscapes here shaped by volcanic eruptions, faults b
 
 <div class="gallery-item">
   <a data-fslightbox="places" href="/images/gallery/iceland/seltjarnarnes3.png">
-    <img src="/images/gallery/iceland/seltjarnarnes3.png" alt="Grassy field at Seltjarnarnes">
+    <img src="/images/gallery/iceland/seltjarnarnes3.png" alt="Grassy field at Seltjarnarnes" loading="lazy">
   </a>
   <div class="desc"><b>Seltjarnarnes</b>
   <br><i style="opacity: 0.7;">Grassy field</i></div>
@@ -118,7 +118,7 @@ Lots of pretty and varied landscapes here shaped by volcanic eruptions, faults b
 
 <div class="gallery-item">
   <a data-fslightbox="places" href="/images/gallery/iceland/moss1.png">
-    <img src="/images/gallery/iceland/moss1.png" alt="Mossy field">
+    <img src="/images/gallery/iceland/moss1.png" alt="Mossy field" loading="lazy">
   </a>
   <div class="desc"><b>Helluvatn</b>
   <br><i style="opacity: 0.7;">Moss growing on cooled lava flows</i></div>
@@ -138,7 +138,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 <div class="gallery-item">
   <a data-fslightbox="wildlife" href="/images/gallery/iceland/puffin.png">
-    <img src="/images/gallery/iceland/puffin.png" alt="Atlantic Puffin">
+    <img src="/images/gallery/iceland/puffin.png" alt="Atlantic Puffin" loading="lazy">
   </a>
   <div class="desc"><b>Atlantic Puffin</b>
   <br><i style="opacity: 0.7;">Fratercula arctica</i></div>
@@ -146,7 +146,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 <div class="gallery-item">
   <a data-fslightbox="wildlife" href="/images/gallery/iceland/wagtail.png">
-    <img src="/images/gallery/iceland/wagtail.png" alt="White Wagtail">
+    <img src="/images/gallery/iceland/wagtail.png" alt="White Wagtail" loading="lazy">
   </a>
   <div class="desc"><b>White Wagtail</b>
   <br><i style="opacity: 0.7;">Motacilla alba</i></div>
@@ -154,7 +154,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 <div class="gallery-item">
   <a data-fslightbox="wildlife" href="/images/gallery/iceland/tern.png">
-    <img src="/images/gallery/iceland/tern.png" alt="Arctic Tern">
+    <img src="/images/gallery/iceland/tern.png" alt="Arctic Tern" loading="lazy">
   </a>
   <div class="desc"><b>Arctic Tern</b>
   <br><i style="opacity: 0.7;">Sterna paradisaea</i></div>
@@ -162,7 +162,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 <div class="gallery-item">
   <a data-fslightbox="wildlife" href="/images/gallery/iceland/phope.png">
-    <img src="/images/gallery/iceland/phope.png" alt="Red-necked Phalarope">
+    <img src="/images/gallery/iceland/phope.png" alt="Red-necked Phalarope" loading="lazy">
   </a>
   <div class="desc"><b>Red-necked Phalarope</b>
   <br><i style="opacity: 0.7;">Phalaropus lobatus</i></div>
@@ -170,7 +170,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 <div class="gallery-item">
   <a data-fslightbox="wildlife" href="/images/gallery/iceland/eider.png">
-    <img src="/images/gallery/iceland/eider.png" alt="Common Eider">
+    <img src="/images/gallery/iceland/eider.png" alt="Common Eider" loading="lazy">
   </a>
   <div class="desc"><b>Common Eider</b>
   <br><i style="opacity: 0.7;">Somateria mollissima</i></div>
@@ -178,7 +178,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 <div class="gallery-item">
   <a data-fslightbox="wildlife" href="/images/gallery/iceland/babygu.png">
-    <img src="/images/gallery/iceland/babygu.png" alt="Black-headed Gull and Fledgling">
+    <img src="/images/gallery/iceland/babygu.png" alt="Black-headed Gull and Fledgling" loading="lazy">
   </a>
   <div class="desc"><b>Black-headed Gull</b>
   <br><i style="opacity: 0.7;">Chroicocephalus ridibundus</i></div>
@@ -186,7 +186,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 <div class="gallery-item">
   <a data-fslightbox="wildlife" href="/images/gallery/iceland/eugp.png">
-    <img src="/images/gallery/iceland/eugp.png" alt="European Golden Plover">
+    <img src="/images/gallery/iceland/eugp.png" alt="European Golden Plover" loading="lazy">
   </a>
   <div class="desc"><b>European Golden Plover</b>
   <br><i style="opacity: 0.7;">Pluvialis apricaria</i></div>
@@ -194,7 +194,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 <div class="gallery-item">
   <a data-fslightbox="wildlife" href="/images/gallery/iceland/bhgu.png">
-    <img src="/images/gallery/iceland/bhgu.png" alt="Black-headed Gull">
+    <img src="/images/gallery/iceland/bhgu.png" alt="Black-headed Gull" loading="lazy">
   </a>
   <div class="desc"><b>Black-headed Gull</b>
   <br><i style="opacity: 0.7;">Chroicocephalus ridibundus</i></div>
@@ -202,7 +202,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 <div class="gallery-item">
   <a data-fslightbox="wildlife" href="/images/gallery/iceland/fulmar.png">
-    <img src="/images/gallery/iceland/fulmar.png" alt="Northern Fulmar">
+    <img src="/images/gallery/iceland/fulmar.png" alt="Northern Fulmar" loading="lazy">
   </a>
   <div class="desc"><b>Northern Fulmar</b>
   <br><i style="opacity: 0.7;">Fulmaris glacialis</i></div>
@@ -210,7 +210,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 <div class="gallery-item">
   <a data-fslightbox="wildlife" href="/images/gallery/iceland/oystercatcher.png">
-    <img src="/images/gallery/iceland/oystercatcher.png" alt="Eurasian Oystercatcher">
+    <img src="/images/gallery/iceland/oystercatcher.png" alt="Eurasian Oystercatcher" loading="lazy">
   </a>
   <div class="desc"><b>Eurasian Oystercatcher</b>
   <br><i style="opacity: 0.7;">Haematopus ostralegus</i></div>
@@ -218,7 +218,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 <div class="gallery-item">
   <a data-fslightbox="wildlife" href="/images/gallery/iceland/redwing.png">
-    <img src="/images/gallery/iceland/redwing.png" alt="Redwing">
+    <img src="/images/gallery/iceland/redwing.png" alt="Redwing" loading="lazy">
   </a>
   <div class="desc"><b>Redwing</b>
   <br><i style="opacity: 0.7;">Turdus iliacus</i></div>
@@ -226,7 +226,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 <div class="gallery-item">
   <a data-fslightbox="wildlife" href="/images/gallery/iceland/tern2.png">
-    <img src="/images/gallery/iceland/tern2.png" alt="Arctic Tern with fish">
+    <img src="/images/gallery/iceland/tern2.png" alt="Arctic Tern with fish" loading="lazy">
   </a>
   <div class="desc"><b>Arctic Tern</b>
   <br><i style="opacity: 0.7;">Sterna paradisaea</i></div>
@@ -234,7 +234,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 <div class="gallery-item">
   <a data-fslightbox="wildlife" href="/images/gallery/iceland/kitties.png">
-    <img src="/images/gallery/iceland/kitties.png" alt="Black-legged Kittiwake">
+    <img src="/images/gallery/iceland/kitties.png" alt="Black-legged Kittiwake" loading="lazy">
   </a>
   <div class="desc"><b>Black-legged Kittiwake</b>
   <br><i style="opacity: 0.7;">Rissa tridactyla</i></div>
@@ -242,7 +242,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 <div class="gallery-item">
   <a data-fslightbox="wildlife" href="/images/gallery/iceland/tufted.png">
-    <img src="/images/gallery/iceland/tufted.png" alt="Tufted Duck">
+    <img src="/images/gallery/iceland/tufted.png" alt="Tufted Duck" loading="lazy">
   </a>
   <div class="desc"><b>Tufted Duck</b>
   <br><i style="opacity: 0.7;">Aythya fuligula</i></div>
@@ -250,7 +250,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 <div class="gallery-item">
   <a data-fslightbox="wildlife" href="/images/gallery/iceland/snipe.png">
-    <img src="/images/gallery/iceland/snipe.png" alt="Common Snipe">
+    <img src="/images/gallery/iceland/snipe.png" alt="Common Snipe" loading="lazy">
   </a>
   <div class="desc"><b>Common Snipe</b>
   <br><i style="opacity: 0.7;">Gallinago gallinago</i></div>
@@ -258,7 +258,7 @@ This was a really interesting mix of Eurasian and North American species of bird
 
 <div class="gallery-item">
   <a data-fslightbox="wildlife" href="/images/gallery/iceland/graylag.png">
-    <img src="/images/gallery/iceland/graylag.png" alt="Graylag Goose w/ goslings">
+    <img src="/images/gallery/iceland/graylag.png" alt="Graylag Goose w/ goslings" loading="lazy">
   </a>
   <div class="desc"><b>Graylag Goose</b>
   <br><i style="opacity: 0.7;">Anser anser</i></div>
@@ -276,7 +276,7 @@ The moss here was really cool, a lot of it was growing on top of cooled lava flo
 
 <div class="gallery-item">
   <a data-fslightbox="plants" href="/images/gallery/iceland/mosscampion.png">
-    <img src="/images/gallery/iceland/mosscampion.png" alt="Moss Campion">
+    <img src="/images/gallery/iceland/mosscampion.png" alt="Moss Campion" loading="lazy">
   </a>
   <div class="desc"><b>Moss Campion</b>
   <br><i style="opacity: 0.7;">Silene acaulis</i></div>
@@ -284,7 +284,7 @@ The moss here was really cool, a lot of it was growing on top of cooled lava flo
 
 <div class="gallery-item">
   <a data-fslightbox="plants" href="/images/gallery/iceland/lupine.png">
-    <img src="/images/gallery/iceland/lupine.png" alt="Moss Campion">
+    <img src="/images/gallery/iceland/lupine.png" alt="Moss Campion" loading="lazy">
   </a>
   <div class="desc"><b>Nootka Lupine <span style="color:var(--hr)">(Introduced)</span></b>
   <br><i style="opacity: 0.7;">Lupinus nootkatensis</i></div>
@@ -292,7 +292,7 @@ The moss here was really cool, a lot of it was growing on top of cooled lava flo
 
 <div class="gallery-item">
   <a data-fslightbox="plants" href="/images/gallery/iceland/scurvygrass.png">
-    <img src="/images/gallery/iceland/scurvygrass.png" alt="Scurvy Grass">
+    <img src="/images/gallery/iceland/scurvygrass.png" alt="Scurvy Grass" loading="lazy">
   </a>
   <div class="desc"><b>Scurvy Grass</b>
   <br><i style="opacity: 0.7;">Cochlearia officinalis</i></div>
@@ -300,7 +300,7 @@ The moss here was really cool, a lot of it was growing on top of cooled lava flo
 
 <div class="gallery-item">
   <a data-fslightbox="plants" href="/images/gallery/iceland/seathrift.png">
-    <img src="/images/gallery/iceland/seathrift.png" alt="Sea Thrift">
+    <img src="/images/gallery/iceland/seathrift.png" alt="Sea Thrift" loading="lazy">
   </a>
   <div class="desc"><b>Sea Thrift</b>
   <br><i style="opacity: 0.7;">Armeria maritima</i></div>
@@ -309,7 +309,7 @@ The moss here was really cool, a lot of it was growing on top of cooled lava flo
 
 <div class="gallery-item">
   <a data-fslightbox="plants" href="/images/gallery/iceland/willow.png">
-    <img src="/images/gallery/iceland/willow.png" alt="Tea-leaved Willow">
+    <img src="/images/gallery/iceland/willow.png" alt="Tea-leaved Willow" loading="lazy">
   </a>
   <div class="desc"><b>Tea-leaved Willow</b>
   <br><i style="opacity: 0.7;">Salix phylicifolia</i></div>
@@ -317,10 +317,15 @@ The moss here was really cool, a lot of it was growing on top of cooled lava flo
 
 <div class="gallery-item">
   <a data-fslightbox="plants" href="/images/gallery/iceland/crowberry.png">
-    <img src="/images/gallery/iceland/crowberry.png" alt="Black Crowberry">
+    <img src="/images/gallery/iceland/crowberry.png" alt="Black Crowberry" loading="lazy">
   </a>
   <div class="desc"><b>Black Crowberry</b>
   <br><i style="opacity: 0.7;">Empetrum nigrum</i></div>
 </div>
 
 </div>
+
+<hr style="border: 1px dotted var(--hr);">
+<h3>Leave a comment!</h3>
+<i>These are manually approved, and may not appear immediately.</i>
+        {% include "partials/comments.njk" %}
