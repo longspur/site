@@ -15,6 +15,7 @@ Here is a list of resources I used when building this site. My coding style is a
 - [**11ty Blog Setup**](https://renkotsuban.neocities.org/posts/2023-11-15-Migrating-to-Eleventy) - *This is how my [newsletters](/newsletter) are organized. This is a modified version of [Zonelets](https://zonelets.net/) that works with static site generators, and allows me to organize and automate organization of my newsletters.*
 - [**Ayano's Comment Widget**](https://virtualobserver.moe/ayano/comment-widget) - *This is how my [guestbook](/guestbook) is set up, which normally does not work unless you are a Neocities supporter. Thankfully, Petra has provided a [tutorial](https://petrapixel.neocities.org/coding/widgets#comment-widget) for a version that uses iFrames for free Neocities users. I've also implemented [Frills Comment Moderation](https://frills.dev/blog/231023-add-moderation-to-comment-widget/#star1) and [Loveberry's Admin Tag](https://loveberry.nekoweb.org/resources/snippets/guide/admin/) as further customization.*
 - [**Biancarosa's Recently Played Widget**](https://github.com/biancarosa/lastfm-last-played) - *This is on my [about](/about) page, and displays the most recently played song on my last.fm.*
+- [**FSLightbox**](https://fslightbox.com/javascript) - *This is the Lightbox I use to make images larger on a click. [Utopian Scrapbook](https://utopianscrapbook.neocities.org/tutorial/6) has an easy tutorial for setup.*
 
 
 ----
@@ -29,11 +30,11 @@ Here is a list of resources I used when building this site. My coding style is a
 ----
 
 #### <i class="fa-solid fa-folder-closed" style="color: var(--hr)"></i> Old Layouts
-Here's a few screenshots of older iterations of the site. Click to open a fullview in a new tab.
+Here's a few screenshots of older iterations of the site.
 
 <details><summary><b>Version 1.0 - Quagsire</b></summary>
 It took me a bit to decide to overhaul the site after this, I had spent a lot of time making the layout from scratch! I still like how it looks, but there was a lot of messiness with how the sidebar collapsed, color themes, accessiblity, etc... I'd love to reincorporate some of these layout ideas into future layouts.
-  <figure><a href="/images/sitev1_1.png"  target="blank"><img src="/images/sitev1_1.png" alt="Screenshot of a plain, light website with a dithered sidebar."/></a><figcaption>My first foray into responsive design, I still really like the sidebar.</figcaption></figure>
-  <figure><a href="/images/sitev1_3.png"  target="blank"><img src="/images/sitev1_3.png" alt="Screenshot of a plain, dark theme website with a dithered sidebar and an array of journals."/></a><figcaption>This also had a Styleswitcher to toggle between light and dark modes! And a journal setup with categories.</figcaption></figure>
- <figure><a href="/images/sitev1_4.png"  target="blank"><img src="/images/sitev1_4.png" alt="Screenshot of a plain, dark theme website with a dithered sidebar and information on original projects."/></a><figcaption>This site had its own planned separate section for OCs, maybe one day I'll bring that back.</figcaption><figure>
+  <figure><a data-fslightbox="1" href="/images/sitev1_1.png"><img src="/images/sitev1_1.png" alt="Screenshot of a plain, light website with a dithered sidebar."/></a><figcaption>My first foray into responsive design, I still really like the sidebar.</figcaption></figure>
+  <figure><a data-fslightbox="1" href="/images/sitev1_3.png"><img src="/images/sitev1_3.png" alt="Screenshot of a plain, dark theme website with a dithered sidebar and an array of journals."/></a><figcaption>This also had a Styleswitcher to toggle between light and dark modes! And a journal setup with categories.</figcaption></figure>
+ <figure><a data-fslightbox="1" href="/images/sitev1_4.png"><img src="/images/sitev1_4.png" alt="Screenshot of a plain, dark theme website with a dithered sidebar and information on original projects."/></a><figcaption>This site had its own planned separate section for OCs, maybe one day I'll bring that back.</figcaption><figure>
 </details>

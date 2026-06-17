@@ -1,15 +1,50 @@
-  <head> 
-    <title>Image Gallery</title> 
-  </head> 
-  <body> 
-    <div class="intro"> 
-      <h2>Image Gallery</h2> 
-      <p>Select a thumbnail below to view the image</p> 
-	  <div id="image-gallery">
-	    <img id="current-image" src="images/image1.jpg" alt="Image 1">
-		<div id="image-thumbs"></div>
-      </div>
-    </div> 
-	<script src="js/gallery.js"></script>
-  </body>
-</html>
+<style>
+  div.gallery {
+   display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 0 auto;
+}
+
+div.gallery-item {
+  margin: 0.2em;
+  width: 250px;
+
+}
+
+/*div.gallery-item:hover {
+  border: 1px solid #777;
+}*/
+
+div.gallery-item img {
+  width:90%;
+    height:140px;
+    object-fit:cover;
+  border-style: double;
+  margin-bottom:-1px;
+  overflow:hidden;
+}
+
+div.gallery-item div.desc {
+  padding-top: 0px;
+  text-align: center;
+  font-size: 0.8em;
+}
+
+@media screen and (max-width:768px) {
+    
+  div.gallery-item {
+   margin: 0.2em;
+   width: 150px;
+  }
+
+  div.gallery-item img {
+  width:90%;
+    height:100px;
+    object-fit:cover;
+    margin-bottom: 2px;
+}
+
+}
+</style>

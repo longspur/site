@@ -23,7 +23,7 @@ Hello! I go by **Petrel** *(they/she)* among other names. I'm a biologist and ho
 | -------- | -------- |
 | <i class="fa fa-brands fa-bluesky" aria-hidden="true"></i> [**BlueSky**](https://bsky.app/profile/murkrow.bsky.social)  | _murkrow.bsky.social_ |
 | <i class="fa-brands fa-tumblr" aria-hidden="true"></i> [**Tumblr**](https://etourvol.tumblr.com/)   | _ETOURVOL_ |
-| <i class="fa-solid fa-brush" aria-hidden="true"></i> [**Art Fight**](https://artfight.net/~taxon) | _taxon_ |
+| <i class="fa-solid fa-brush" aria-hidden="true"></i> [**ArtFight**](https://artfight.net/~taxon) | _taxon_ |
 | <i class="fa-solid fa-house-user" aria-hidden="true"></i> [**Toyhouse**](https://toyhou.se/taxon) | _taxon_ |
 | <i class="fa-brands fa-patreon" aria-hidden="true"></i> [**Patreon**](https://www.patreon.com/marginalsea) | _marginalsea_ |
 | <i class="fa-solid fa-envelope" aria-hidden="true"></i> [**Mail**](mailto:etourvol@gmail.com) | _etourvol[@]gmail.com_ |
