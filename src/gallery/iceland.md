@@ -324,10 +324,3 @@ The moss here was really cool, a lot of it was growing on top of cooled lava flo
 </div>
 
 </div>
-
-<hr style="border: 1px dotted var(--hr);">
-<h3>Leave a comment!</h3>
-<i>These are manually approved, and may not appear immediately.</i>
-        {% include "partials/comments.njk" %}
-
-        </div>
