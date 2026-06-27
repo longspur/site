@@ -33,6 +33,7 @@ Hello! I go by **Petrel** *(they/she)* among other names. I'm a biologist and ho
 
 ### <i class="fa-solid fa-radio"></i> Updates
 *Something look funny? Try **hard refreshing!** (CTRL + F5 on PC)*
+> - **27 Jun 2026:** [June newsletter](/newsletter/2026-June) is up! 
 > - **17 Jun 2026:** Added a [journal entry](/journal/iceland) including a brand new photo gallery for my Iceland trip! This site also now has a Lightbox installed for picture previews.
 > - **14 Jun 2026:** Doing some cleanup of the Styleswitcher, none of which will be visible to you but hopefully will make the code easier to update on the backend.
 > - **26 May 2026:** Broke all the site permalinks (oops!), but hopefully fixed them? Hard refresh if you're getting page not founds. Also, added comment sections to newsletters.
